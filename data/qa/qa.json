@@ -1,0 +1,3409 @@
+{
+ "source": "https://rijindoudoujin.com/#sec-qa",
+ "scraped_at": "2026-09-26 23:50（已同步最新回答）",
+ "total": 89,
+ "records": [
+  {
+   "id": "qa0",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "回放复盘辅助功能问题",
+   "asker": "ED",
+   "time": "15 小时前",
+   "replies_meta": "1 回复",
+   "question_body": "辅助功能里面，每次止盈百分比是按照当前仓位大小的百分比算的。比如说，初始有200股，第一次止盈30%（60股），剩下140股。再止盈40%，应该是按照初始的200股算，应该止盈80股，但是现在的辅助功能是按照160股来算的40%。好像是和视频里说的不一样",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 小时前",
+     "body": "是的，是按照当前仓位大小的百分比计算",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa1",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于止盈",
+   "asker": "Lunaaa",
+   "time": "1 天前",
+   "replies_meta": "1 回复",
+   "question_body": "老师您好：关于止盈是否应该有预判？有的交易日整体氛围比较好，趋势线较为干净，每次止盈可以少一些以保证拿到大盈而昨天感受到趋势是无法延续，每一段趋势走的犹犹豫豫，所以止盈是否应该多一些？还是尽量不要添加这样的预判？感谢解答",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 小时前",
+     "body": "你好，我可能尽量不要有这样的预判，还是按照成交量，斜率这样确定的指标来判断要不要调整比例",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa2",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于止盈",
+   "asker": "青沐",
+   "time": "1 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大，你好，这种隔得比较近得地方，第二次会止盈吗",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card002_q0.png",
+     "full": "data/qa/orig/img_139_thread202.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "1 天前",
+     "body": "可能不会，如果价格和上次止盈的价格差不多，我可能会多等等",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "青沐",
+     "time": "1 天前",
+     "body": "好的，感谢",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 小时前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa3",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "0923 MSFT 10点06是否可以抓住入场",
+   "asker": "金金",
+   "time": "1 天前",
+   "replies_meta": "3 回复",
+   "question_body": "请哥看下这个地方会想要入场做空吗？ 为什么？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card003_q0.png",
+     "full": "data/qa/orig/img_138_thread201.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "1 天前",
+     "body": "不会，前面这个范围还没有过，如果是多标的，这里我可能不会入场",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "金金",
+     "time": "1 天前",
+     "body": "哥，你觉得是从哪里开始算过了这个范围呢？ 超过第一根的下影线 还是第二根下影线？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 小时前",
+     "body": "应该是第一根下影线，找一个半整数位",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa4",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于这次培训的感悟",
+   "asker": "青沐",
+   "time": "2 天前",
+   "replies_meta": "3 回复",
+   "question_body": "非常高兴能参加雷大的这次培训，让我感受到了，交易不在于复杂神奇的策略，在于执行与纪律。学习交易1年有余，前面总是在反反复复小赚小亏大亏，凭自己的主观进行交易，没有固定的系统策略纪律规则。真的非常感谢您，让我看到了稳定盈利的希望。系统纪律的重要性",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "1 天前",
+     "body": "不客气的，很高兴看到这次培训对你有一点点帮助，我觉得总结的非常好，交易重要的是执行和纪律，不在复杂的策略，祝交易顺利",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "青沐",
+     "time": "1 天前",
+     "body": "感谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 小时前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa5",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "趋势延续一段时间后 如何坚定入场信心？",
+   "asker": "GQGQGQ",
+   "time": "2 天前",
+   "replies_meta": "1 回复",
+   "question_body": "09/23 10:01/10:02 EST 已经下跌很多，貌似有点小反弹的感觉，信号确实随之出现，小助手也提示，如何坚定在这些位置入场的信心？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card005_q0.png",
+     "full": "data/qa/orig/img_137_thread199.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "1 天前",
+     "body": "我觉得就是按照计划执行，不要预设，如果错过了，当天复盘的时候可以试一下看能不能抓到这个入场，再总结一下是什么原因。信心是需要通过实际执行来加强的。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa6",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "今天QQQ和SPY走的完全相反，以后的交易有要注意的么？",
+   "asker": "qlbatm",
+   "time": "3 天前",
+   "replies_meta": "1 回复",
+   "question_body": "今天QQQ和SPY走的完全相反，雷大对今天这种走势怎么看？以后的交易有要注意的么？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "2 天前",
+     "body": "我目前交易是不参考spy走势的，只看qqq",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa7",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9/22 1044这个高点是否能构成关键位",
+   "asker": "宝宝玉玉",
+   "time": "3 天前",
+   "replies_meta": "5 回复",
+   "question_body": "1. 雷大您觉得1044这个高点算是一个有效的关键位吗？2. 如果是的话您觉得它在哪里失效了呢",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card007_c7q0.png",
+     "full": "data/qa/orig/img_135_thread197.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "2 天前",
+     "body": "好像效果比较一般，我可能看到11:00左右就会去掉这个位置",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "2 天前",
+     "body": "那您觉得今天这个算是关键位吗",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "1 天前",
+     "body": "我当时没有画这个位置，影线重合较多，不是很明显",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "1 天前",
+     "body": "好的，感谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 小时前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card007_c7r0.png",
+     "full": "data/qa/orig/img_136_thread565.png"
+    }
+   ]
+  },
+  {
+   "id": "qa8",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于错过入场的问题",
+   "asker": "MyAmigo",
+   "time": "4 天前",
+   "replies_meta": "4 回复",
+   "question_body": "雷大，我今天10：07因为客观原因错过了入场，再看的时候已经10：08涨起来了；当时我放了一个stop order 在10：07上方准备等价格稍微跌下去的时候下单，即希望价格回到我本来打算入场的位置时能入场，而在10：09分也确实回来了，但我又想了想这是不是不符合计划，我应该再等一个回撤到20EMA的机会入场。所以最后没下单，错过了这一轮上涨。那雷大如果是你的话会不会保留这个订单呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card008_q0.png",
+     "full": "data/qa/orig/img_132_thread196.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "补充",
+     "author": "阿V",
+     "time": "4 天前",
+     "body": "我告诉你一个方法，怎么不错过行情，当回调接近EMA的时候测试下止损就下一个STOP单子在附近。出现了信号就拉到K线高点或者低点。这样可以解决你犹豫不决分心的问题。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 天前",
+     "body": "如果是因为某些原因错过了本来计划的入场，在回撤到之前入场位置的时候，就是价格差不多的时候，在这里入场我觉得也是可以的，止损还是放置在初始位置。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "强者我朋友",
+     "time": "3 天前",
+     "body": "谢谢雷大和阿V",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "2 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa9",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于入场的两个问题",
+   "asker": "jasmine8gu",
+   "time": "4 天前",
+   "replies_meta": "3 回复",
+   "question_body": "1. 2026.09.16 10:5010:48和10:49两根稍微有点放量，这里不用考虑吗？2. 2026.09.18 9:36开盘前两分钟放量上涨，成交量几乎赶上盘中的成交量了，那为什么不将盘前和开盘之后的几分钟合起来看，作为一段上涨趋势，那么9:36就是回撤之后的一个标准的入场点了。",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card009_c9q0.png",
+     "full": "data/qa/orig/img_131_thread195.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 天前",
+     "body": "1.稍微放量不改变预期，还是在等回撤做多的机会2. 和盘前数据连起来看也可以，不过我个人是不看的，我以开盘后的走势为准，盘前可以参考关键位",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "3 天前",
+     "body": "非常感谢雷老师回复",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "2 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa10",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于今天的入场点",
+   "asker": "jasmine8gu",
+   "time": "4 天前",
+   "replies_meta": "5 回复",
+   "question_body": "我记得有几次是涨了一大段，你说最好等到触及20均线再根据反应入场。这和今天的走势有什么区别吗？谢谢",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 天前",
+     "body": "首先是背景，周一开盘上涨之后，入场的位置是第一次出现回撤20均线的机会，整体趋势非常强势。其次是入场的位置有之前大量的支撑。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "3 天前",
+     "body": "非常感谢雷老师回复",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "2 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "m710414645",
+     "time": "1 天前",
+     "body": "老师，请问您说的背景是周一开盘上涨，趋势非常强。是不是说如果是在周二，或者周三，您可能会等触及20均线再看反应呢？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 小时前",
+     "body": "是的，如果趋势斜率较大，我会等到20均线的反应",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa11",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "21/09 10:07",
+   "asker": "我要买M4",
+   "time": "4 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大您好，我想请教一下图中的入场和今天10:07的入场有什么区别。图中箭头的位置也是回撤到盘整区间上沿+均线附近，但是您复盘视频里说像这种急涨急跌回选择等碰到均线再看反应。今天同样也是一波拉升，同样回撤到关键位和均线附近，当时离均线有9个cents，您没有等价格碰到均线就入场了。我想请教一下您有加入别的判断吗。感谢雷大",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card011_q0.png",
+     "full": "data/qa/orig/img_130_thread193.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 天前",
+     "body": "你好，首先是背景，周一开盘上涨之后，入场的位置是第一次出现回撤20均线的机会，整体趋势非常强势。其次是入场的位置有之前大量的支撑，其实和图中标记的当天之后入场的位置相似，是有关键位的水平支撑。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa12",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "关于个股的问题",
+   "asker": "日内交易员",
+   "time": "4 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大，9.18的TSLA，我对这9点57附近的回撤20均线觉得模拟两可，开盘的时候出现一根大量的K线，这波回撤20均线表现基本回到这个范围就出现卖盘，感觉非常好，不过前面有一个最低点是刚好触及了昨日收盘价。看两波反弹的成交量都觉得没有任何问题，反弹力量也不强。唯一膈应的就是上一波触碰昨日收盘价就出现了一波上涨。我还是觉得这里到昨收至少还有一比一的盈亏比，我觉得可以尝试，这里有问题吗？ 雷大，期待您的答复！",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card012_q0.png",
+     "full": "data/qa/orig/img_129_thread192.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "日内交易员",
+     "time": "4 天前",
+     "body": "追问一个问题，就是如果雷大你进场了，那么366价位这里有一个过高，请问您会做一个止盈吗",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "4 天前",
+     "body": "这里我觉得可能不太好抓。之前能不能看为下跌趋势我觉得可以讨论，这里我看更像是在震荡。我不确定这个回撤我能不能抓到",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "4 天前",
+     "body": "如果这里你已经看空，那么回撤做空，我觉得这里入场应该是可以的，在开盘阶段关键位的效果可能不如盘中明显。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "日内交易员",
+     "time": "4 天前",
+     "body": "谢谢雷大回复，想一想看空确实激进",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "3 天前",
+     "body": "不客气的，我个人做的比较保守，如果你整体都偏激进，我觉得也没问题",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa13",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/17入场位置",
+   "asker": "峰1618",
+   "time": "7 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，9/17这个位置，如果您在9：46来不及入场，9：48还会入吗？谢谢！！",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card013_q0.png",
+     "full": "data/qa/orig/img_124_thread188.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "6 天前",
+     "body": "可能会考虑一下，这里k线连续和vwap重合，有可能不入场",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa14",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "网站主题能增加亮色版主题吗，习惯看白色的界面",
+   "asker": "不稳定盈利不改名",
+   "time": "7 天前",
+   "replies_meta": "1 回复",
+   "question_body": "网站可以支持切换主题色吗",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "目前网站不支持切换主题色",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa15",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于股指期货入场离场",
+   "asker": "蓝色的骨头",
+   "time": "7 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，在正股qqq的止损跟入场都会预留5美分的距离，入场也是对吧？ 然后我做qqq期货的话，一个tick跳动25点，波动比较大，我疑问是我的止损跟入场，应该跟做正股一样预留5个点吗？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "是的，会预留5cent。期货我没有交易不确定应该预留多少，你可以参考一下正股来设置",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa16",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于加仓和止盈",
+   "asker": "jasmine8gu",
+   "time": "8 天前",
+   "replies_meta": "5 回复",
+   "question_body": "我看了一下今天10：22激进入场的，都没有在10：41加仓，请问这里加仓有什么问题吗？第三单，没有人在11：50止盈，我记得你说过了前高就开始设止盈，11：49过了前高一点点，这里可以设止盈吗？还是止盈的价格必须要过了上一次的止盈的价格才可以？谢谢！",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "这里止盈也可以，可能和上一次止盈位置比较近。请参考第三章 拿不住5这个视频",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "7 天前",
+     "body": "谢谢。抱歉还要追问一下加仓的这个问题。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "我觉得如果是1022入场，加仓应该在1031",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "7 天前",
+     "body": "10:29这里止盈只有15cents，所以我等到10:39才第一次止盈。我猜其他人都没有在10:41加仓可能是因为已经上涨了三波了，接下来再上涨的概率就比较小了，不知道我的理解对吗？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "6 天前",
+     "body": "是的，可以这样理解",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa17",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "请教策略问题",
+   "asker": "duomi",
+   "time": "9 天前",
+   "replies_meta": "1 回复",
+   "question_body": "1. 顺势而为 6 里\"更高的低点\"，是和上一次回撤的最低点比，还是和跌破均线那一段的最低点比？这个低点要到哪根 K 线走完才算确定？2. 用于平仓和暂停原方向入场的\"跌破 20 均线比较多\"，怎样算有效跌破：看收盘价还是盘中触碰？和允许的短暂穿越怎么区分？3. 回撤到 20 均线附近但没有长影线、没有放量时，除了下一根过高，还要看到什么才把前一根当有效信号 K？4. 信号 K 后的下一根开盘就高于信号 K 高点（跳空），仍按过高入场吗？偏离多少就放弃？5. 网站上\"过高可做多 / 过低可做空\"的提示，是程序按规则自动判定的，还是交易员人工写的？如果有程序环节，VWAP 从盘前还是 9:30 起算？6. 提示写出后价格没过高，这条提示会保留、撤回还是改成\"等待回踩\"？回放页里的逐根文字是当天实时原文的存档，还是收盘后整理过的？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "8 天前",
+     "body": "1. 是和上一次回撤的最低点比，需要等k线走完。请参考第二章 顺势而为62. 跌破20均线比较多和短暂穿过需要一定的主观判断。3. 如果回撤看到均线有效，这里可能已经入场了，并不会考虑其他的因素。4. 我会留5cent空间。请参考第二章 顺势而为2S5. 人工判断，是开了盘前数据的。6. 提示会保留，不会修改。回放复盘里逐根分析和实时分析不同，是收盘后整理的。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa18",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于盘整区间内入场的问题",
+   "asker": "jasmine8gu",
+   "time": "9 天前",
+   "replies_meta": "5 回复",
+   "question_body": "我记得很多时候你在屏幕上把上下沿一画，说“我就决定等过了这个区间再说”，今天上午的718.78到710.28，好像是一个挺窄的盘整区间，这和那种等出了区间再说的情况有什么不同呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card018_c18q0.png",
+     "full": "data/qa/orig/img_123_thread183.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "9 天前",
+     "body": "我看了全天复盘视频，详细的解释了这里的盘整怎么看待，已经解答了我的疑问了。谢谢。",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "阿V",
+     "time": "9 天前",
+     "body": "这种趋势初期的突破，雷大经常做，我觉得趋势跟随策略，可以分两个入场位置，一种如图初期得突破入场（最好左边有一个逆势得反转形态双底双顶诱多诱空，再一次尝试顺势突破得时候可以入场}一种就是正常得第一次第二次回调EMA入场",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "8 天前",
+     "body": "非常感谢回复",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "阿V",
+     "time": "7 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "哈哈哈哈",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa19",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9/16再次入场的量价问题",
+   "asker": "宝宝玉玉",
+   "time": "9 天前",
+   "replies_meta": "3 回复",
+   "question_body": "请问雷大，这里上涨缩量回调放量，我止损之后放弃了这个位置，您入场的时候是怎么思考和判断的呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card019_q0.png",
+     "full": "data/qa/orig/img_122_thread182.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "8 天前",
+     "body": "当时看到再次上涨且没有反转，意识到第一次平仓是错误的，等再回撤做多的机会",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "8 天前",
+     "body": "好的，谢谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa20",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "入场位置疑问",
+   "asker": "T",
+   "time": "9 天前",
+   "replies_meta": "1 回复",
+   "question_body": "这里不太明白，有时候会听到雷大说是区间，突破了回踩在做多，有时候像今天这样直接做多",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card020_q0.png",
+     "full": "data/qa/orig/img_121_thread181.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "8 天前",
+     "body": "请参考周三的全天复盘视频，在视频频道",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa21",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于策略问题",
+   "asker": "阿V",
+   "time": "9 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大您好，请问下您为什么在这么多策略中，现在选择了只做趋势跟随策略，听说您早年也做其他得策略。这其中有什么经历与思考吗",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "9 天前",
+     "body": "你好，因为我个人偏好做开盘阶段，在开盘阶段趋势跟随的交易机会比较多，而且成功率比较高。如果到了盘中，可能盘整区间突破和关键位突破更适合一些。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "阿V",
+     "time": "9 天前",
+     "body": "好得，谢谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "8 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa22",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/14 顺六入场",
+   "asker": "峰1618",
+   "time": "10 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，我在此处依然在等待顺六入场，但是当我看到12：37没有过12：31这根大量的高时就暂时放弃了盯盘，请问12：37是否需要考虑12：31这根大量？如果可以不考虑，那12：40刚好低于12：39  1cent，那12：41是不是就可以做顺六入场？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card022_c22q0.png",
+     "full": "data/qa/orig/img_120_thread179.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "9 天前",
+     "body": "是的，我觉得可以。12:41可以考虑入场。不过这里不是很标准，高点和低点都没有非常明确。我觉得不太好抓",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa23",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "顺趋势大量",
+   "asker": "m710414645",
+   "time": "10 天前",
+   "replies_meta": "4 回复",
+   "question_body": "老师您好！请问7.13号图1中，10：16是属于顺趋势大量吗？和9.14号图2，11：05中的顺趋势大量有什么区别？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card023_c23q0.png",
+     "full": "data/qa/orig/img_118_thread178.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "m710414645",
+     "time": "10 天前",
+     "body": "这是9：14号的图2. 如果图1是顺趋势大量为什么不能入场做空呢？谢谢老师，期待您的回复！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "9 天前",
+     "body": "图1中如果不参考vwap，可以认为是顺趋势大量，但是因为价格两次穿过了vwap，我觉得这里看空可能比较激进。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "m710414645",
+     "time": "8 天前",
+     "body": "好的，谢谢老师！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "7 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card023_c23r0.png",
+     "full": "data/qa/orig/img_119_thread506.png"
+    }
+   ]
+  },
+  {
+   "id": "qa24",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9月14日11：13入场的问题",
+   "asker": "随机森林",
+   "time": "11 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大您好：如图：刚过去的9月14日，K1回撤至均线只有几个cent，且此位置也是前面的水平支撑位，因此K2突破K1高点开多，K3打止损，，参照雷大一贯的做法，同一位置不再做第2次，然后错过后面一波趋势。我看雷大包括其它不少人是在K4入场的抓住趋势了，但也有不少人和我一样是在K2入场K3打止损就不再入场错过趋势的。两种微小的误差会导致当天收益差别非常大。所以这里有一点疑问：1、K2入场和K4入场是有根本性的判断上的区别吗？比如雷大您在复盘视频里说，前面快速拉升后还是要回调触碰到均线才算企稳，这是一个硬规则吗？2、还是说应该不要追求确定性，而是去接受这种微小的价格波动随机性导致的结果差别？谢谢！",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card024_c24q0.png",
+     "full": "data/qa/orig/img_117_thread177.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "10 天前",
+     "body": "我觉得K2和K4入场本质上是一致的，都是上涨之后的回撤。关于选择入场点，正如我在视频里说的，是激进和保守的区别。因为咱们看的是1分钟图，相对来说是非常灵敏的，会有这样比较多的噪音，想追求100%的确定性，我觉得是比较难的。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "10 天前",
+     "body": "好的谢谢雷大！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "9 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa25",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/14号 趋势延续的判断",
+   "asker": "vekks",
+   "time": "11 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大你好，我想参考一下你今天对趋势延续的判断思路是怎么样的，红色长方形的盘整区间，围绕着开盘上涨趋势回撤的最低价进行盘整，价格突破了趋势回撤最低价，我的判断思路中是认为上涨趋势结束了，我认为是过了1010的高才觉得趋势继续看涨，这导致我错了后面1115过高入场机会。发现自己面对价格复杂回调对趋势的判断能力很薄弱。希望得到你的回复，谢谢",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card025_q0.png",
+     "full": "data/qa/orig/img_116_thread176.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "10 天前",
+     "body": "1010是第一段上涨的最高点。我觉得判断趋势延续并不需要过前高。我觉得在第一段趋势跌破20均线之后，继续等待上涨过20均线回撤做多的机会就可以了。如果能够识别出来这段盘整是更好的。就是你图中画出来的这个位置，上涨过了这个范围继续看多，等回撤做多的机会。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa26",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于15号盈利过多，我是不是哪里不对",
+   "asker": "蓝色的骨头",
+   "time": "11 天前",
+   "replies_meta": "1 回复",
+   "question_body": "你好，雷大，15号晚，拿到了4.47R，但是我总觉我数据写错了，我是不是有些风险额写错了，第二笔入场705.86，止损705.35,止损=0.51x70股=35.7（风险额我填了这个，对吗？） 我的疑问是：如果风险额是填这个，但是交易日志里面只能填一个风险额，每一笔的的风险额都不一样，但是每一笔盈利/亏损的PL都是根据同一个风险额生成的？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card026_c26q0.png",
+     "full": "data/qa/orig/img_115_thread175.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "10 天前",
+     "body": "请参考入场仓位这个视频。每一天单笔的风险额应该是一致的，以确保每次入场风险的一致性。在确定了单笔风险之后，用风险来确定入场的仓位。你可以根据这个思路重新计算一下。用确定的风险额除以每一股的风险，就可以得到此时应该入场的仓位。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa27",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/14 第二笔止盈问题",
+   "asker": "ED",
+   "time": "11 天前",
+   "replies_meta": "1 回复",
+   "question_body": "想问下雷大，今天第二笔在你第一次止盈前已经有很多次过低潜在止盈的地方，比如11:22，11:26。这些地方为什么没有考虑止盈呢",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "10 天前",
+     "body": "11:22没有止盈，在复盘视频里已经说明，是因为这里离入场成本价较近。11:26没有止盈是因为只比上一根低了2cent，没有触发，我一般留5cent空间。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa28",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "tsla入场问题",
+   "asker": "金金",
+   "time": "13 天前",
+   "replies_meta": "4 回复",
+   "question_body": "雷大，请问本周五tsla这一单是否应该入场？当时考虑的不利因素有：1/价格从下往上穿过20ema；2/只有一根k线明显的上涨；3/回撤不理想，连续的上影线，实际是触及上一天盘整区间的下沿；现在马后炮看，有利因素有：1/多头趋势基本确立，看多没问题；2/虽然触及上一日盘整区间下沿有反应，但是反应不距离，几根回撤k相对缩量；3/感觉在20ema这里撑住了，没有掉下去。请问雷大你怎么分析这一单？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card028_c28q0.png",
+     "full": "data/qa/orig/img_112_thread172.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "金金",
+     "time": "13 天前",
+     "body": "这是当时看到的三分图。当日这两根三分钟k线，上下影线都很长，趋势不清晰。上一日盘整了很大一段，感觉触及下沿有反应，怕过不去。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "12 天前",
+     "body": "这个位置看着比较想入场。上涨放量比较大，接着缩量回撤，感觉在上涨之后稳住了，形态上符合上涨后回撤，再上涨的概率是比较高的，我可能会在这个位置入场。开盘阶段成交的热情比较高，可以以整体形态为主。关键位触及之后观察反应如果不剧烈的话，突破的概率比较高。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "金金",
+     "time": "12 天前",
+     "body": "谢谢哥",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "11 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card028_c28r0.png",
+     "full": "data/qa/orig/img_113_thread491.png"
+    }
+   ]
+  },
+  {
+   "id": "qa29",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于复盘回放14.01.2024 QQQ的问题",
+   "asker": "Lunaaa",
+   "time": "13 天前",
+   "replies_meta": "3 回复",
+   "question_body": "老师周末好，我在复盘14.01.2026的QQQ时看到您当时在这里还没有完全回撤20均线的时候就入场了。1.考虑到您说过的均线是一个范围区间，那么您在哪些情况下会考虑回撤不到位入场呢？感觉趋势很强势？回撤时出现了更低的高点（如图中框选的第二根K线）？2.如果这样的情况入场，止损应该放在回撤k线的顶端还是该k线20均线上的位置呢？感谢解答",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card029_c29q0.png",
+     "full": "data/qa/orig/img_111_thread171.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "12 天前",
+     "body": "1回撤时价格接近20均线，这时我会参考之前的关键位，高点或低点，或大量的位置。如果有这样的水平关键位辅助，如果没有完全回撤20均线也是可以考虑入场的。前提是价格已经在20均线的范围内，不要太远。2止损应该放在回撤高点的最高。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Lunaaa",
+     "time": "12 天前",
+     "body": "好的，我练习一下，谢谢老师",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "11 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa30",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "复盘回放功能",
+   "asker": "A&W",
+   "time": "13 天前",
+   "replies_meta": "1 回复",
+   "question_body": "请问复盘回放功能的reset traders 是有删除个别交易记录的功能，因为目前看到的是一键reset all 的功能而已。",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "12 天前",
+     "body": "回放复盘的reset trades是删除在回放复盘时全部的模拟记录",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa31",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "QQQ新手入场仓位",
+   "asker": "小黄鸭",
+   "time": "14 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷老师你好，想请问如果是刚开始做QQQ，想要培养入场信心和执行力，可不可以给自己设置一个固定仓位，按照固定的止盈比例这样去做呢？因为我总是发现自己对入场很没有信心，会害怕会紧张。 我想的是如果可以按照固定仓位，每次入10股，然后按照您视频中提到的3:4:3的比例止盈，同样的方法来止损，这样执行一段时间从而来培养自己的交易信心，您觉得可行吗？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "13 天前",
+     "body": "我觉得刚开始这样可以，之后再按照止损大小调整入场仓位",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa32",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "移动止损的取舍",
+   "asker": "随机森林",
+   "time": "15 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大您好：如图，复盘4月20日的行情，图中K1入场做空，K2止盈一次，把止损顺着20均线往下移，然后K3上穿20均线就全部止损平仓了，接下去就错过了一大段行情。看雷大这一天的视频解说，并不会在K3这个位置平仓，反而是加仓。但雷大平时的操作习惯似乎也是会顺着20均线移动止损的，想问一下雷大当时这个位置为什么不会移动止损从而把仓位打掉？谢谢",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card032_q0.png",
+     "full": "data/qa/orig/img_110_thread168.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "沿着20均线移动是一个比较简单的方法，也是我判断平仓的基础，但不是止损紧贴着20均线，要留一些空间，请参考挪止损这个视频。里面说明了，在挪动的时候，最好可以有大量，关键位，整数位等其他因素来辅助判断。止损的本质是你预测价格不会到达的位置，如果到达，就说明对未来走势的预期和实际有偏差，需要重新判断。欢迎加入周日语音频道，可以多讨论一些细节",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa33",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/10 9:55的入场",
+   "asker": "菲利克斯",
+   "time": "15 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大想你再多分享一下这个位置的看法。你在全天复盘里说这里算比较追，并且指出了前面的交易区间使这里不好判断。我想问的是这里应该是满足什么条件你才会做空呢，比如要跌破开盘的低点？或者说这里跌破20均线后应该再走几根然后回撤比较好？我当时觉得因为在vwap以下可以看空，挺标准的一个回撤，就入场了。",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "这里能看到之前上涨的起涨点是0933这根k线，如果这里可以下跌到0933底部附近。或跌破这个位置，我觉得可以看空，等回撤做空的机会。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa34",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/11 如何提早止盈",
+   "asker": "ED",
+   "time": "15 天前",
+   "replies_meta": "1 回复",
+   "question_body": "看到今天雷大2单只亏损了1R，应该都是提早止损了。请问是在哪里提早止损的，是怎么判断的？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "第一单看到1046缩量上涨后，把止损挪到了1046的低。第二单止损挪到了1057的低。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa35",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于上升三角的问题",
+   "asker": "宝宝玉玉",
+   "time": "16 天前",
+   "replies_meta": "4 回复",
+   "question_body": "请问一下雷大，关于上升三角我和Li同学找了一些案例，像请您解答一下疑惑，图片中Vwap为红色，EMA20为黑色线1. 图1这种上升三角是否会考虑在19,20,21入场？如果入场这里需要考虑些许Vwap重合吗？如果您最终入场或者不入场分别考虑的原因是什么？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card035_c35q0.png",
+     "full": "data/qa/orig/img_108_thread165.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "16 天前",
+     "body": "2. 图2跟图1是否为同一种形态？您看到27之后会考虑入场吗，您最终入场和不入场的考虑的原因是什么？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "1 k线和vwap连续重合这样的情况我可能会多等等，不会入场2 图2的上涨趋势感觉更明显，我应该会入场",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "15 天前",
+     "body": "谢谢雷大！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card035_c35r0.png",
+     "full": "data/qa/orig/img_109_thread457.png"
+    }
+   ]
+  },
+  {
+   "id": "qa36",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于一根同时过高和过低，入场时机的问题",
+   "asker": "Armin",
+   "time": "16 天前",
+   "replies_meta": "3 回复",
+   "question_body": "hello老师，想问一下，就是我记得老师之前说过，比如做空，当回撤到20EMA附近时，同一根K，先出现过高，再过前低，会等这根K线走完再进场。比如上周五0904的1124这里，1124下方挂stop order，之后1125先过1124的高，再过低，请问应该在1125就进场；还是在1125过高的时候先撤单，等1125走完，再在1125下方挂单？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card036_q0.png",
+     "full": "data/qa/orig/img_107_thread164.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "应该是等25走完后入场，我在视频里说了如果想抓到同一根完成回撤和过低比较难，可以再多等一根",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Armin",
+     "time": "15 天前",
+     "body": "明白了，感谢老师",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa37",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9:45的判断问题",
+   "asker": "Dex",
+   "time": "16 天前",
+   "replies_meta": "2 回复",
+   "question_body": "雷大这里面我有两个问题.1. 在9:34附近就判断是多头是不是有点急. 因为34的这根长上影线 并且我感觉有些量价异常.2. 在9:45时候我一直在犹豫要不要做多. 因为明显感觉到是盘整了. 8月31号10:34附近一段下跌之后也是价格在等着20均线上来. 和这个情况类似. 但是今天的回撤动作更明显一些. 想问下雷大这种情况该怎么处理. 如何明确分析微型的盘整区间筛选交易机会. 谢谢!",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card037_c37q0.png",
+     "full": "data/qa/orig/img_105_thread163.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "Dex",
+     "time": "16 天前",
+     "body": "8月31截图",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "1 我觉得这里在盘整后选择上涨，感觉多头强，接着0935没有下跌回来，可以确定多头趋势，等回撤做多2 关于盘整后回撤，请参考08/13全天复盘视频",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card037_c37r0.png",
+     "full": "data/qa/orig/img_106_thread456.png"
+    }
+   ]
+  },
+  {
+   "id": "qa38",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/8 QQQ 止盈比例 & 问题",
+   "asker": "Rye",
+   "time": "16 天前",
+   "replies_meta": "3 回复",
+   "question_body": "全天复盘里被问到了，这里贴图回答一下11:10做多的止盈比例。 这天计算仓位的脚本是用R除以信号K的长度算的，所以实际被打倒止损亏的额度超过了1R。今天脚本里加了7个cent的空间，模拟盘刚做第二个月，很多地方都还在摸索，请见谅。另外有关于9/8的视频，有个问题想请教一下：雷大说如果是急速的上涨/下跌，最好看K线实际触碰20EMA的反应，具体是要观察什么样的反应？还是说您的意思是不要在K线离20EMA有点距离的时候就挂单，然后下一根触碰20EMA可能同时触发单子又马上止损？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "Rye",
+     "time": "16 天前",
+     "body": "抱歉，图没放上来。另外看到下面也有同学问9/8 09:59这个位置，您回答说这里过20均线比较多是有利因素，这里我还是不太懂，能稍微展开讲讲吗？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "OK，了解，我今天在视频里再说一下R的设置",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "急速的上涨和下跌，最好可以看到价格触及20均线。具体的反应是能够看到20均线的支撑或阻力，视频里强调的是不要在价格离20均线还有一定距离的时候做出判断。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card038_c38r0.png",
+     "full": "data/qa/orig/img_104_thread455.png"
+    }
+   ]
+  },
+  {
+   "id": "qa39",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于0909的放弃顺6的分析",
+   "asker": "lon",
+   "time": "16 天前",
+   "replies_meta": "4 回复",
+   "question_body": "想问下雷大，在复盘视频里面说这个跌下ema20与vwap之后，拉起来太急太快，然后又回撤太深，所以放弃顺6。但是我在复习之前的交易日的时候，发现其实很多时候背景有点异常但是只要回撤ema20然后符合形态就会入场，那这样看的话盘中有关机会的筛选好像就有点模糊了。所以我想问问雷大，快到盘中的时间段对于这种顺6或者回撤入场的筛选和开盘有什么异同吗？然后有没有比较清晰的分析方法呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card039_q0.png",
+     "full": "data/qa/orig/img_103_thread161.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "我是在昨天0933发到群里说下班的，这里是看到回撤20均线较深，加上前面的上涨感觉成交量不够，所以没有再继续等",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "我觉得顺6和快到盘中的时间好像不影响，关于交易机会选择的问题可能比较广，可以周日语音频道里多讨论一下",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "lon",
+     "time": "15 天前",
+     "body": "好的，谢谢雷大！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa40",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "9/9 0934K线看多问题",
+   "asker": "RZ",
+   "time": "16 天前",
+   "replies_meta": "1 回复",
+   "question_body": "你好雷大今天的复盘视频中0934光凭这一根K线你说觉得多头强就看多了，而且这根还有很长的上引线。感觉这个和您之前的复盘思路来说感觉好像稍微有点偏激进。想问问这里还有什么别的参考依据吗",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card040_q0.png",
+     "full": "data/qa/orig/img_102_thread160.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "你好，我觉得这里在盘整后选择上涨，感觉多头强，接着0935没有下跌回来，可以确定多头趋势，等回撤做多",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa41",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "MNQ仓位止盈问题",
+   "asker": "Lunaaa",
+   "time": "16 天前",
+   "replies_meta": "3 回复",
+   "question_body": "老师您好，可以帮我看一下昨天（08.09.2026）纽约时间的11：12分这一次止盈是否止盈多了？入场按照风险我带了4张，由于快速上涨（相比较于前几十分钟的小短线），第一次我止盈了两张，然后导致后面高点没仓位止盈只好放在20均线下打止损，错过了一些利润。感谢老师解答",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card041_c41q0.png",
+     "full": "data/qa/orig/img_101_thread159.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "你好，我觉得没问题，我第一次止盈了70%左右。后面的利润也比较少，不过我觉得是按计划执行的。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Lunaaa",
+     "time": "15 天前",
+     "body": "好的，感谢老师解答",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa42",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于心态",
+   "asker": "阿V",
+   "time": "17 天前",
+   "replies_meta": "4 回复",
+   "question_body": "开盘盈利一单之后，就影响下一单，犹豫下单。 错过之后又FOMO激进入场。如何破解，雷大，好恨，交易初期养成了坏习惯，好难改",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "阿V",
+     "time": "17 天前",
+     "body": "从盈转亏之后又上头乱操作，然后大亏。已经不知道多少次反复恶性循环，雷老师请指点明路。这个是我先阶段的死穴",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "可以参考一下独立性这个视频。咱们在交易的时候我觉得应该尽量忘记之前的盈亏，专注于当下的形态。这个说起来比较容易，但实际盘中完全不被之前交易影响是比较难的，就需要咱们在每一笔入场之前都提醒自己要保持交易的独立性。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "阿V",
+     "time": "16 天前",
+     "body": "好的，雷大，这个真的好难",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "确实比较难，刚开始的时候可以注意多提醒自己不要被上一单影响",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa43",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于8.17和8.31的空仓",
+   "asker": "日内交易员",
+   "time": "17 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大，我看8月17日的复盘视频时，您在8月17日的时候做空了类似于8月31日的位置，我想知道8月31日您是怎么快速判断并规避了一波止损的",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card043_c43q0.png",
+     "full": "data/qa/orig/img_099_thread156.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "日内交易员",
+     "time": "17 天前",
+     "body": "补8月31日的图",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "阿V",
+     "time": "17 天前",
+     "body": "雷大说在VWAP附近盘整，他一般不入场",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "请问是8月31号图中标记的9:59这个位置吗？这个位置我觉得看多看空可能风险都比较高。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "日内交易员",
+     "time": "16 天前",
+     "body": "不好意思。雷大，我没有表述清楚，是8月31日10.30附近",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "请参考08/31的全天复盘视频，应该分析了这个位置",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card043_c43r0.png",
+     "full": "data/qa/orig/img_100_thread439.png"
+    }
+   ]
+  },
+  {
+   "id": "qa44",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "请问这两个入场点有什么不同",
+   "asker": "jasmine8gu",
+   "time": "17 天前",
+   "replies_meta": "1 回复",
+   "question_body": "左边图是今天9：59，右边图是8.21 10:24。8.21你提到k线过了20均线太多，所以取消了单子。今天9:57过均线34cents，8.21过均线40cents。谢谢。",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card044_q0.png",
+     "full": "data/qa/orig/img_098_thread155.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "请参考09/08和08/21当天的全天复盘视频。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa45",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9月8日放弃入场是否合理",
+   "asker": "LH",
+   "time": "17 天前",
+   "replies_meta": "3 回复",
+   "question_body": "你好雷大 在9月8日0959放弃入场是否合理，我的理由是：下跌后回调两次都在周5最低点关键位附近有支撑，加上回调没缩量K线过长不理想，K线又过了20线比较多，有试过这种情况不入场是正确的，但像今天又错过了，真不知道怎样才好",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "你好，请参考一下昨天的复盘视频和全天复盘视频，这里我觉得过20均线比较多是一个有利的因素。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "LH",
+     "time": "16 天前",
+     "body": "好的 谢谢",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa46",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "怎么做到止损不满损？",
+   "asker": "随机森林",
+   "time": "17 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大：我自己在开仓时根据止损价和开仓价以1R作为风险额计算开仓量，打止损时大部分时候都是损失满1个R。但雷大似乎很多时候一笔止损是远小于1R的。以6月24日为例，你当天两笔亏损交易加起来的总亏损额似乎都不满1个R。请问雷大每笔亏损交易比较小，是因为及时根据MA20移了止损位呢，还是开仓时以小于1R的风险额计算开仓量呢？谢谢！",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "止损不满损的情况基本都是挪动了初始止损或提前平仓。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "16 天前",
+     "body": "好的谢谢。在没有触发第一次止盈时，挪动初始止损感觉挺难把握的，经常是挪了就被很快打止损了结果趋势就起来了，不挪吧经常是满损，挪吧很容易仓位被扫掉。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "可以参考一下视频频道第三章 挪止损 这个视频",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "15 天前",
+     "body": "谢谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa47",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "回调企稳后，K线的突破基准价需不需要顺位更新",
+   "asker": "随机森林",
+   "time": "17 天前",
+   "replies_meta": "5 回复",
+   "question_body": "请教雷大：如图，6月24日的交易，图中1、2、3这三根K线，K1企稳均线，准备在突破K1最高点做多，接下去的K2没有突破最高点，然后我就以突破K2最高点做多，K3突破了K2最高点，K3开多然后当根K线止损。我看视频解说，雷大并不会因为K2没有突破K1最高点就将开仓价移到K2最高价上方。请问在这种情况下，是一直坚持以突破K1最高价作为基准价吗？还是说有些情况下可以更改为以K2最高价作为基准价突破做多？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card047_q0.png",
+     "full": "data/qa/orig/img_097_thread152.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "入场的stop order是随着k线移动的，比如图中的情况，k2没有过k1的高，此时入场order挪到k2上方，接着k3也没有过k2的高，再挪到k3的上方，但是这里没有触发，下一根就跌破20了",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "16 天前",
+     "body": "谢谢！K2的最高点是717.65，K3的最高点是717.67，我的order一般来说就是K2上方一个cent左右，所以K3就触发做多了。那雷大的做法一般是把入场order大体放在K2上方几个cent的位置就行了呢？还是会比较精确地放在K2上方固定cent距离的位置呢？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "15 天前",
+     "body": "我一般留5cent",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "15 天前",
+     "body": "谢谢雷大！！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "14 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa48",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "判断多空方向",
+   "asker": "June",
+   "time": "18 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大好，想问你两个相关的问题1） 在qqq 5月18日为例，开盘下跌的背景但是临近10:26之前的价格来回窜梭vwap，这时1026这个节点刚跌破vwap不多，看空是否太激进？2） 在复盘视频里您提过这里入场刚好有收盘关键位，那么假设在这里没有收盘关键位，您还会入场吗？这里的关键位是否能影响到激进和保守的入场选择？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card048_q0.png",
+     "full": "data/qa/orig/img_096_thread151.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "17 天前",
+     "body": "你好 1 这里看空我觉得还可以，因为背景是开盘有一段明显的下跌。2 如果没有关键位，可能入场的信心会稍微弱一些。我不确定如果没有关键位实际盘中会不会入场。这一天盘中的阅读我觉得可以作为一个比较好的例子完整的分析，咱们可以周日语音频道里多讨论一下这一天。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "June",
+     "time": "17 天前",
+     "body": "好的谢谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa49",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9.4日第二个多仓的盈利问题",
+   "asker": "日内交易员",
+   "time": "18 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大，我在复盘时反复跑这一波行情，如果时按照343的止盈比例的话，整个下来的盈利在0.8R左右，我看到您在这波行情是盈利1.16R，还有一些同学这一波是在1.8R，那就是大家都在第一次止盈时放大了止盈比例。我想请问这里放大止盈比例的逻辑是否是行情加速？还有就是怎样可以在盘中快速判断止盈比例。谢谢",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card049_q0.png",
+     "full": "data/qa/orig/img_095_thread150.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "你好，是的，我在这里提高了止盈的比例。一般在趋势加速或放量的情况下，我会提高止盈比例。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "日内交易员",
+     "time": "17 天前",
+     "body": "雷大，这个地方是否有因为盘前形成的721.75的阻力位而放大止盈比例这个原因在呢",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "16 天前",
+     "body": "参考之前可能的关键位也是可以的。但是这里更主要的是看到了加速之后就已经决定要提高止盈比例了，而且这个位置到721.75好像并没有明显的放量。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa50",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于多空判断的主观思路",
+   "asker": "宝宝玉玉",
+   "time": "18 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大您好，我今天在会议上听到您分析多空的思路时候非常震撼，虽然您说是主观经验，但是整体分析的非常有道理，想请问有没有类似的视频或者书籍，可以去训练多空意图这种判断能力呢？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "补充",
+     "author": "日内交易员",
+     "time": "18 天前",
+     "body": "你好，我想知道周末的会议是通过什么方式加入的",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "18 天前",
+     "body": "你好，你点击网站右上角ID旁边有个下三角，里面有加入会员群，一般会议都是在周日的纽约时间10点到12点",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "你好，相关的视频还没有录制，我觉得你说的这种能力在交易经验积累后都会形成自己的判断。咱们可以周日语音频道讨论一下复盘时的观点，或者你也可以参考一下群友Li的方法，分类来判断。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "17 天前",
+     "body": "好的，我再观看一下录屏，谢谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "17 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa51",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于交易日志的风险额",
+   "asker": "蓝色的骨头",
+   "time": "18 天前",
+   "replies_meta": "4 回复",
+   "question_body": "关于我入场，加仓，止盈都是按照教学的来，出入场点位也都是跟大家一样，我去除这个风险额后，用ai计算盈利就是在1-2R之间，跟大家很接近，我要是填了风险额500呢，每次盈利都是在0.几左右，请问在交易日志这个风险额，大家都是填自己总资金的1%吗？还是不填，只是根据建仓的止损位来计算？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card051_q0.png",
+     "full": "data/qa/orig/img_094_thread148.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "补充",
+     "author": "宝宝玉玉",
+     "time": "18 天前",
+     "body": "这个是根据建仓的止损金额计算的，并不是资金的1%，如果止损是50刀，这里就填50刀",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "需要填写的是单笔风险额，就是你自己设置的每一笔交易的最大风险",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "蓝色的骨头",
+     "time": "18 天前",
+     "body": "好的，谢谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "17 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa52",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "回调位置长阴线入不入场的问题",
+   "asker": "随机森林",
+   "time": "18 天前",
+   "replies_meta": "6 回复",
+   "question_body": "请教雷大：6月2日09：55这根K，是长阴线回调到均线，你其它复盘解说里有说到像这种情况下开仓价和止损价比较远，均线需要成交量突破才容易上去，风险比较大而不建议入场。而6月2日09：55这里我观察的话就是这种情况所以没有开仓，但雷大在这个位置的判断并不是这样，这里可以指导下吗？谢谢",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card052_c52q0.png",
+     "full": "data/qa/orig/img_092_thread147.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "18 天前",
+     "body": "比方说7月22的09:38和09:39这两K，复盘视频解说里说的就是离均线太远，均线不容易拉上去，因此建议不入场，那么这里和6月2日09：55和09：56这两根K的区别怎么样判断呢？谢谢",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "不好意思，我没有看明白你的问题，请问你问的是哪天的入场？",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "18 天前",
+     "body": "不好意思，可能我没说清楚。贴的是两张图，前一张是6月2日的，后一张是7月22日的。6月2日的09：56突破09：55高点本来应该开多，但我没有开，是因为我判断这里和7月22日的09：38这根K的情况是类似的，7月22日09：38这根K你认为虽然是企稳了，但这种情况下离均线较远，均线不容易拉上去，止损幅度大，所以不建议入场。我分不清这两天这两个位置的区别，所以想请教一下。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "17 天前",
+     "body": "请参考6月2号的复盘视频，我印象里这里好像有水平方向的关键位和20均线的共同支撑",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "17 天前",
+     "body": "如果回撤的k线距离20均线较远，我可能觉得入场风险比较高，我会多等等先不入场",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "17 天前",
+     "body": "是的，6月2日当时是说有水平关键位支撑的",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card052_c52r0.png",
+     "full": "data/qa/orig/img_093_thread419.png"
+    }
+   ]
+  },
+  {
+   "id": "qa53",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于止损位设置的一个小疑问",
+   "asker": "随机森林",
+   "time": "19 天前",
+   "replies_meta": "4 回复",
+   "question_body": "雷大您好：如图，7月6日10：21回撤均线企稳，准备过高做多，初始止损位置准备设在10：21下方一个TICK（图中标注1的位置），10：22没有过高，因此改为以突破10：22高点做多，止损位置这个时候应该不应该移到10：22下方（图中标注2的位置）。自己操作的时候碰到这种情况下，有时候会改一下止损位置（移到2那里），后面会打止损，有时候不改（仍然坚持设在1那里），不会打止损。操作时会有点犹豫。这里需要遵循固定的规则么？还是灵活处理？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "19 天前",
+     "body": "不知道为什么图传不上去",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "初始止损应该在回撤最低点的下方，即10:21这根k线最低的下方，我觉得这是固定规则",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "18 天前",
+     "body": "好的谢谢雷大！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa54",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于看3分钟 30分钟得问题",
+   "asker": "阿V",
+   "time": "19 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，你好，请问看你看这些周期图表的作用是什么，是不是用3分钟过滤干扰，30分钟看趋势空间",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "19 天前",
+     "body": "你好，30分钟主要看整体当天的位置，相对于前几天的情况，3分钟主要看关键位，1分钟主要找入场机会",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa55",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "k线离20ema距离和止损的问题",
+   "asker": "菲利克斯",
+   "time": "19 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大好，我知道我们的止损是以20均线为标准的，都要隔着20均线。其次就是止损一般是多留5个cent。如果碰到k线距离20均线可能还有个10-15cent，但是相对于当日波动已经离20ema很近了。这里入场的话止损还是要优先隔着20均线是么？也就是说止损会离k线远一点，那么相对仓位小一点点。",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "19 天前",
+     "body": "请问你说的是入场的时候初始止损的位置吗？我会以k线为准，如果是你描述的情况，我会放在回撤K线最低或最高留5cent",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "菲利克斯",
+     "time": "19 天前",
+     "body": "我知道是留5cent，比如做多情况下，信号k线的最低点，离20ema还有9个cent。那么如果只留5个cent的话止损位置就会仍然在20ema之上。这样做是对的么？或者说你的止损必须要隔着20均线，那么止损的位置就要留不止5个cent",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "是的，如果是初始止损，我个人会以入场的k线为准，之后挪止损需要参考20均线",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa56",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9月4号，盈利多少的问题",
+   "asker": "蓝色的骨头",
+   "time": "19 天前",
+   "replies_meta": "1 回复",
+   "question_body": "9月4号中，我看到很多同学都盈利超过1-2R的，我在翻看他们记录的时候，发现我的出入场，加仓跟大家都差不多，为什么我的盈利都是0.几的？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card056_q0.png",
+     "full": "data/qa/orig/img_082_thread143.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "19 天前",
+     "body": "可能是入场仓位或止盈比例的问题，可以明天早上语音频道里讨论一下",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa57",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "过高过低入场位置问题",
+   "asker": "KKZL",
+   "time": "19 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大您好，如果回撤时候出现如图这种两根K线的组合，第二根K线的低点K2低于第一根K1，假如我想过K1 5cent距离入场，但是第二根只过低了3cent没有触发入场，然后进行了再次回撤，并且第二根高点没有过第一根高点的高，这个时候如果要入场，您倾向于保持过低K1 5cent入场还是说改成过低K2 5cent入场？（假设图中的两根K线都是标准信号线情况下）",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card057_q0.png",
+     "full": "data/qa/orig/img_081_thread142.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "19 天前",
+     "body": "你好，我个人会挪到K2下方留5cent",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "KKZL",
+     "time": "19 天前",
+     "body": "好的，谢谢雷大解答",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "18 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa58",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "盈利打止损后顺6",
+   "asker": "ED",
+   "time": "20 天前",
+   "replies_meta": "1 回复",
+   "question_body": "想问下雷大，在8/19这一天，前面一段的单已经盈利止损后，在黄色的框的地方感觉又出现了顺6的机会，这个地方会认为是顺6的机会吗？还会进吗？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card058_c58q0.png",
+     "full": "data/qa/orig/img_079_thread140.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "19 天前",
+     "body": "是的，这里可以认为是顺6的机会，入场是符合计划的。不过参考整体趋势，下跌已经出现了明显的斜率下降，这里入场可能风险高一些。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa59",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "关于日内交易期权",
+   "asker": "六六大顺",
+   "time": "21 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大您好，我看您的视频很久了，一直按照您顺势而为、趋势跟随的思路在做个股/指数的日内期权，有几个执行上的问题想请教您。先说一下我目前的做法。我选股价波动比较大的个股作为标的，在 1 分钟图上看正股走势，按您的策略找入场点，默认进 5 张合约。合约方面我不做 0DTE，因为 gamma 太大，一般选 3DTE 或 5DTE，并且只做 ITM 的合约。入场门槛我也刻意提高了，只在盈亏比尽可能大的位置入场，震荡行情就不做。不知道这个方向对不对，还请您指正。我目前最大的困难在止损、止盈和仓位管理上，原因是期权有时间价值、IV 和希腊字母这些特性，正股和期权的价格不是同步变动的。具体来说，股价跳动快的时候期权价格动得更快，我常常来不及设置止损。止盈也是同样的情况：如果按您说的过前高、前低来止盈，等正股真正触发到那个价格的时候，我挂的单子对应的期权价格可能已经变了。我看到您提过可以用滑点来控制止损，但考虑到期权价格的变化幅度，我不太清楚这个滑点具体应该怎么留。止盈上还有一个我自己的问题。我经常方向判断是对的，但因为价格动得太快，会提前落袋为安。结果就像您视频里说的，因为提前止盈错过了后面的利润，然后陷入负面情绪，开始报复性做单。所以想请教您三个问题：第一，做期权时，止损的触发条件应该看正股价格还是看期权价格？如果看正股，具体怎么把正股的止损位转换成期权上的操作？第二，用滑点控制止损时，期权的滑点应该怎么留？有没有一个判断的依据？第三，跟踪止盈的做法（过了上一根 K 线的高低点就移动止盈位），在期权上应该怎么调整才能执行得下来？麻烦您了，谢谢。",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "20 天前",
+     "body": "我目前交易的是正股，没有交易期权。我只能从一般经验的角度回答你这几个问题。1. 如果是做日内，触发的条件应该是看正股。从形态上来判断入场和平仓。2. 滑点是无法解决的。只要是市价单一定会有滑点，不管是正股还是期权。3. 这个问题和1相同。我觉得可以参考正股的位置。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "六六大顺",
+     "time": "20 天前",
+     "body": "非常感谢雷大的回复！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "19 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "阿祖",
+     "time": "15 天前",
+     "body": "期权的魅力和坑点就是它的k线变化上是非线形变化（基于原标的），尽管已经选择了3DTE和5DTE，已经降低了一些非线形，但是依然无法避免。如果参考正股的位置，其实在震荡过后，相同位置的期权价格已经亏损很多（因为时间价值的损失）。我的建议是入场参考正股（看趋势的起点），止损参考入场的位置（期权k线入场k的低点），止盈和雷大策略是一样（期权k线）。但最终的建议还是完全的学习雷大，相同的策略，相同的标的，因为他已经完全验证过了。",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "T",
+     "time": "15 天前",
+     "body": "可以看期权做期货",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa60",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9月4号0953入场点的问题",
+   "asker": "宝宝玉玉",
+   "time": "21 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大您好，我想请问一下0953左侧这里属于是盘整区间吗？或者说属于低点抬高的三角形吗？这里我因为判断左侧有点盘整，而上方又有阻力所以没有入场，后续1003入场导致亏损，我想问一下怎么解决这种因为错过最佳入场点，然后后续入场导致别人盈利我连亏的这种状态，感觉自己做的很糟糕，即使是一直学习也这边补上另一边漏风的感觉😭请问雷大，我该怎么识别这种可以入场类似盘整，和真正的盘整之间的区别",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card060_q0.png",
+     "full": "data/qa/orig/img_078_thread138.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "20 天前",
+     "body": "这个位置认为是盘整也可以，不过像这样小范围的盘整，上下也不是很整齐，突破是比较容易的。这里我觉得只需要观察上方阻力位的反应就可以了。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "20 天前",
+     "body": "我想问一下怎么解决这种因为错过最佳入场点，然后后续入场导致别人盈利我连亏的这种状态，感觉自己做的很糟糕，即使是一直学习也这边补上另一边漏风的感觉10:03这里入场风险比较高，我在昨天的全天复盘视频里分享了我的想法，你可以参考一下。我觉得主要的是一致性，其实也是纪律的一部分。出现机会符合计划，要坚定的入场。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "20 天前",
+     "body": "错过第一次机会再入场打止损，这个我觉得是交易节奏的问题，咱们可以周日语音频道里多讨论一下。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "20 天前",
+     "body": "好的雷大，感谢您的耐心回复",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "20 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa61",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "QQQ 6/8 複盤",
+   "asker": "PeterSu",
+   "time": "21 天前",
+   "replies_meta": "2 回复",
+   "question_body": "雷大您好，請問6/8的0938跟1003這兩個回撤放到現在你一樣會進場嗎？我是這兩個月才開始做實盤，在這期間您有提到VWAP之上基本不做空，還有訊號K太長的話後續要有斜率更大的趨勢才有機會獲利，基於這兩點我在練習6/8時這兩個地方都沒進場，但當時您都進場了。想聽聽你目前對這兩個進場點的看法，謝謝。",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card061_q0.png",
+     "full": "data/qa/orig/img_072_thread137.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "PeterSu",
+     "time": "21 天前",
+     "body": "0938的圖片傳不上來",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "21 天前",
+     "body": "你可以参考一下当天的复盘视频，里面应该讲了入场的理由",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa62",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "09/03 数据发布前入场",
+   "asker": "LaoWang",
+   "time": "21 天前",
+   "replies_meta": "3 回复",
+   "question_body": "你好雷大09/03 1000 有数据发布美国8月ISM非制造业PMI看了之前的波动还挺大的 然后 0952 开始缩量我当时理解成等数据 大家都不交易所以 0955 没有入场请问雷大这个位置盘中是如何思考的？是不是觉得还有 5 分钟，而不是一两分，可以尝试一下？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "补充",
+     "author": "yyhzgh1688",
+     "time": "21 天前",
+     "body": "怎么联系客服呢？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "21 天前",
+     "body": "我当时觉得整体形态非常符合，还是决定入场试一次。如果考虑新闻这个位置不入场也是可以的。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "21 天前",
+     "body": "请在右上角 个人中心下方联系客服",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa63",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于提前止损",
+   "asker": "阿V",
+   "time": "22 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大，你好，我看到排行榜很多人损了都没满损，都是提前平了吗，我最近都是满损",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "21 天前",
+     "body": "你好，可能是提前平仓，也可能是不是全仓入场",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "阿V",
+     "time": "21 天前",
+     "body": "如果选择机会进行仓位入场，是不是就没有一致性了。雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "21 天前",
+     "body": "我觉得一致性是基础，是稳定盈利的前提。在一致性的框架下，可以有一些主观的判断。咱们可以周日早上语音频道里多讨论一下。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa64",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "关于提前平仓造成错过盈利的问题",
+   "asker": "boerj",
+   "time": "22 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大好，我有两个今日提前平仓导致错过机会的例子，想请教雷大我是否是过度担心趋势无法延续了导致拿不住，在不应该的位置执行提前平仓：1. 受10:27放量长阴线影响，10:30 做多入场时，已经略有信心不足(止损在10:29的低)，而后10:30K线收了一根不理想的空头K，因为除了10:29K之外，没有一个明显的低点在20均线之下，便将止损放在20均线之下，然后10:32打了止损。2. 10:50 再次做多(止损在10:49的低)，而后注意到10:50-10:51的成交量没有像前一段10:30-10:36趋势一样放大，10:52又出现一根空头K，担心趋势无法延续，便将止损挪到10:51的低，10:53打了止损。我最近在尝试练习提前平仓，虽然有时能够避免一些亏损，但有时会像这两个例子一样提前平仓后错过一大段利润，造成\"避免了一小段亏损，但错失了一大段盈利\"的情况，目前感觉提前平仓执行起来的期望值是负的。深究原因，我觉得是因为我本身性格上就是容易拿不住，出于对于亏损的排斥，进而导致时常在不应该的位置提前平仓。想请问雷大是否建议先避免尝试提前平仓，或是限制每日提前平仓的执行次数?",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card064_c64q0.png",
+     "full": "data/qa/orig/img_070_thread133.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "22 天前",
+     "body": "看了你的描述，我觉得目前可以调整一下提前平仓的思路。我觉得如果因为整体形态上出现了对于咱们不利的情况，咱们可以通过挪止损来减小风险。咱们做出决定的原因是因为形态上发生了变化，而不是咱们主观上拿不住。我个人建议在接下来的交易中，可以考虑只有在明确的出现了可以挪止损的位置后再减小风险。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "boerj",
+     "time": "22 天前",
+     "body": "谢谢雷大，我再复习一下提前平仓的视频，列出几个可以提前平仓的情况加入到交易计画中然后再试试",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "22 天前",
+     "body": "不客气的。可以的，先尽量拿住，再考虑提前平仓",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa65",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于新增spy标的数据统计",
+   "asker": "我在QQQ里搬砖",
+   "time": "23 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，9/2 我做了spy盈利2R，但是无法统计到QQQ标的上，我可以在QQQ上添加2R的盈利数据交易记录以便于好统计整体数据嘛。",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "22 天前",
+     "body": "可以的，可以把大概入场平仓的位置换算到QQQ上。培训结束后会增加其他标的的记录",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa66",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "09/02 1114 入场",
+   "asker": "LaoWang",
+   "time": "23 天前",
+   "replies_meta": "1 回复",
+   "question_body": "请问雷大 1114 做多  是否担心左侧那段盘整过不去？是不是离得足够远了？一般离的有多远可以不用考虑？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card066_c66q0.png",
+     "full": "data/qa/orig/img_069_thread131.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "22 天前",
+     "body": "是的，确实有可能过不去。不过整体经过了一段比较深的回撤之后，还是看多的，我觉得可以尝试一次。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa67",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于VWAP",
+   "asker": "阿V",
+   "time": "23 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，你好，VWAP跟均线重叠，不是应该有更好的支撑吗，为什么建议不要入场",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "22 天前",
+     "body": "如果vwap和均线重合，有更好的支撑，可以考虑入场。我视频里说的是如果k线连续几根和vwap重合，我个人会考虑多等一下",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa68",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于R的计算",
+   "asker": "jasmine8gu",
+   "time": "23 天前",
+   "replies_meta": "6 回复",
+   "question_body": "现在网站使用R来排行，每个人自己定自己的风险金额，我发现有的相同的单子，因为自定的风险金额不一样，得出的R也有很大差别。我有个疑问，为什么不用盈利的金额除以仓位，这样所有人都同样标准了我先问了一下CHATGPT，这里是它的回答，供你参考。具体CHATGPT怎么比较的我也没太看懂。----------------------------------------------------------------------------你的想法其实很接近很多专业交易团队的做法。问题的关键在于：R 和 收益率（盈利金额÷仓位）衡量的是两件不同的事情。举个例子：为什么R会不同？R（Risk Multiple）的定义通常是：R = 盈利金额 ÷ 初始风险金额而初始风险金额 = （入场价 - 止损价）× 仓位。由于每个人的止损位置可以不同，即使：买的是同一只股票同样的进场价同样的出场价得到的R也可能差很多。例如：A：仓位：10000元止损2%实际盈利1000元风险 = 10000 × 2% = 200元R = 1000 ÷ 200 = 5RB：仓位：10000元止损5%实际盈利1000元风险 = 500元R = 1000 ÷ 500 = 2R赚的钱一样，但R不同，因为A承担的风险更小。你说的「盈利金额÷仓位」是什么？实际上就是：收益率 = 盈利金额 ÷ 仓位例如：仓位10000元，赚1000元收益率 = 10%如果大家都是按这个算，那么：同一笔交易同样仓位同样盈利所有人的结果都是10%。这是一个统一标准。那为什么很多交易群喜欢用R？因为R反映的是风险控制能力。例如：甲：每笔只冒1%的风险一年做到100R乙：每笔冒5%的风险一年做到100%的收益谁更厉害？如果只看收益率，很难比较，因为有人敢重仓，有人很保守。R把风险标准化了。但是你发现的问题也是存在的如果R完全由每个人自己定义，比如：止损可以随便放风险金额自己填没有提前公布那么R就容易失去可比性。例如：有人止损设得特别紧，盈利没变，就变成8R。有人止损设得很宽，就只有2R。这时R更多是在反映个人的交易计划，而不是交易结果本身。更公平的排行方式如果目的是比较大家的实际赚钱能力，可以考虑同时公布几个指标：收益率（盈利÷仓位） —— 最直观、统一标准。R倍数 —— 衡量风险回报和风控质量。胜率 —— 稳定性。盈亏比 —— 每次盈利相对于亏损的比例。这样既能看谁赚得多，也能看谁是在承担多大风险的情况下赚到的。所以，你提出“盈利金额÷仓位”作为排行榜标准是有道理的，因为它避免了每个人自行定义R带来的不可比问题。 不过，它不能完全替代R，因为它不能体现每笔交易承担了多少风险。比较合理的做法是收益率排行榜 + R排行榜并存，前者比赚钱效率，后者比风险管理能力。-----------------------------------------------------------------------",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "我没有看懂你的问题，排行榜现在是以单笔风险为衡量标准，是允许修改的",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "23 天前",
+     "body": "假设QQQ，$700买入，$701卖出，止损距离是$0.5。我的仓位是20，盈利$20，我的1R的风险金额是$20，那么我的盈利是1R，另一个人同样价格买入和卖出，仓位$7000，盈利$7000，风险金额是$3250，那么盈利是2R+。就是这个风险金额自定义导致同样价格的买入卖出，计算出的R的结果不同。而使用盈利/仓位，那么我的盈利比例是$20/20 = $1, 另一个人的盈利比例是$7000/7000 = $1，这样比较是不是更有可比性一些。不知道我这样思考对不对？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "止损距离是$0.5。我的仓位是20，盈利$20，我的1R的风险金额是$20。根据你的描述，1R应该是10",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "23 天前",
+     "body": "好的，我明白了，谢谢雷老师恢复",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "jasmine8gu",
+     "time": "23 天前",
+     "body": "回复*",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "22 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa69",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于8.11仓位止盈的问题",
+   "asker": "日内交易员",
+   "time": "23 天前",
+   "replies_meta": "2 回复",
+   "question_body": "1.老师，我看到您视频中在8.11的仓位，您是在下跌出现放量的情况下将第一波止盈的比例调整为百分之80，后面反转之后可以保护很大一部分盈利，我是按照平时的343的止盈，这波跑下来就止盈了百分之30然后被打到止损，我想请问是否是在仓位运行过程中碰到放倍量的情况就需要提高止盈比例，这个比例是固定的还是基于主观的？图1为8.11日的走势。2.然后基于上述情况我想到了我复盘的8.7日的行情，如果同样的情况下使用破低止盈百分之30，后续同样会被触及止损，基本吞噬绝大部分盈利，8月7日也是10点多的行情。这种的止盈希望老师再提点几句，或者说这种利润的回撤是不是属于计划内的。",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card069_c69q0.png",
+     "full": "data/qa/orig/img_067_thread128.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "日内交易员",
+     "time": "23 天前",
+     "body": "8.7日的走势图，基本是同样的模式",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "1. 如果在趋势过程中遇到放量或加速，我会提高止盈的比例。具体的数字比较偏主观，70%或80%都可以。2. 8月7日同理。在图中你标记止盈的位置上一根k线有一些放量，可以考虑提高止盈比例。具体止盈的比例我觉得和个人的风险偏好有关，如果你想抓取更多的利润，那么可以少止盈一些，以期待趋势走得更远；如果你想锁定更多的利润，可以多止盈一些。请参考网站视频频道第三章 拿不住5 这个视频。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": [
+    {
+     "thumb": "data/qa/img/card069_c69r0.png",
+     "full": "data/qa/orig/img_068_thread352.png"
+    }
+   ]
+  },
+  {
+   "id": "qa70",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于8月5日的空头仓位提问",
+   "asker": "日内交易员",
+   "time": "23 天前",
+   "replies_meta": "2 回复",
+   "question_body": "我想请问老师，关于8月5日10点25的这个仓位，做空的理由是因为这个长阳线的回调价位符合交易策略，然后单K出现量价异常吗？因为我发现我个人在交易中非常在意这种急速反弹，每当这种快速反弹发生之后我都需要更多时间进行评估，但是我看您在视频中在这个地方的仓位差不多有2R的盈利",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card070_c70q0.png",
+     "full": "data/qa/orig/img_066_thread127.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "是的，主要是看到下跌后确定空头强，等回撤做空的机会。你可以参考一下当天的复盘视频和全天复盘视频。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "快速反弹确实需要注意，可能是反转，也可能是诱多，我觉得可以关注一下成交量",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa71",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "补充9月1日的仓位管理数据",
+   "asker": "随机森林",
+   "time": "24 天前",
+   "replies_meta": "4 回复",
+   "question_body": "1、入场下单手数计算1R是5000，控制单次止损在5000左右，后续按20%-30%-30%-20%分批止盈。以10：19这根K作为信号K,这个K的H是708.16，L是707.92，因此下单手数是5000/（708.16-707.92）=20833。10：20突破708.16开多20833手。2、10：27止盈一次，止盈比例 20%，即4166手。3、10：35止盈一次，止盈比例30%，即6249手。4、10：48止盈一次，止盈比例30%，即6249手。5、10：52止盈一次，止盈比例20%，即4169手。补充：1、下单手数比较精确地计算，是为了先严格地按照1R作为止损风险来以损定量。实盘操作时可能来不及计算，所以太精确是否没必要？2、10：29这根K没有加仓，是因为感觉这里离第一次的止盈位置没差多少，所以没有加，这样做是否合理？3、11：29这根K没有入场做多，是因为感觉11：24至11：28这几根K更像盘整而不是回调。我对盘整的理解是不是有偏差？",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "请问你说的手指的是一股吗？",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "23 天前",
+     "body": "是的",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "23 天前",
+     "body": "复盘视频里你说把仓位管理的数据发上来，我就发上来了",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "好的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa72",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于9/1的盘中反转判断问题",
+   "asker": "lon",
+   "time": "24 天前",
+   "replies_meta": "6 回复",
+   "question_body": "雷大你好，我这里有一个疑问：有关在1114入场的盘中反转交易，这里我确实是有点心急了，主要是参考了mnq的vwap，发现价格在vwap下方，然后又突破了ema20，就认为反转了（忽略了前面非常强的多头拉升）；当然看qqq的话，这个时候还没有向下突破vwap；这单被打止损之后就立马意识到了应该做顺6；然后我的问题主要是，咱们判断这个时候做反转主要是哪些判据呢？是根据趋势高低点是否被打破？还是需要穿过vwap？那如果是距离vwap比较远的时候呢？这个点我感觉我特别容易犯错，就是如果穿过ema20的趋势很强势的话，我可能分不清是应该做反转还是等顺6（如果这两点的区别有一些明确的区分的话就好了，如果有我漏看的课程视频的话也劳烦雷大指出，我去补习一下）。非常感谢雷大！",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card072_q0.png",
+     "full": "data/qa/orig/img_065_thread125.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "lon",
+     "time": "24 天前",
+     "body": "对了有关9/1当天还有个问题就是stop order没挂上的问题：因为tradingview显示、挂单都会有些慢，叠加行情比较快会导致挂了后出现order reject的情况，这时应该直接市价追进去吗？然后想问问雷大在这种快速波动的行情下，挂单的细节是怎样的？",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "请参考网站视频频道 第二章 顺势和逆势这个视频，以及 反转 这个视频。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "我目前是以vwap作为日内多空判断的一个标准，不过这是比较保守的做法",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "关于在快速波动的行情下如何挂单，请参考 顺势而为二 这个视频。如果来不及挂stop order，可以市价单入场。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "lon",
+     "time": "23 天前",
+     "body": "十分感谢雷大的回答，我再去补补课",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "23 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa73",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "下跌趋势中产生了高点是否值得注意",
+   "asker": "Lunaaa",
+   "time": "24 天前",
+   "replies_meta": "3 回复",
+   "question_body": "老师您好，请问在下跌趋势中发现产生了更高的高点和低点，这个情况是否值得留意？由于这一天趋势不是很强，我当时有些顾虑趋势逆转的情况发生",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card073_q0.png",
+     "full": "data/qa/orig/img_064_thread124.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "是的，我觉得可以标记下来这些高点和低点。如果出现了更高的高点，可以认为这段趋势已经暂停。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Lunaaa",
+     "time": "24 天前",
+     "body": "好的，感谢解答",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa74",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于8/13日加仓的问题",
+   "asker": "宝宝玉玉",
+   "time": "24 天前",
+   "replies_meta": "4 回复",
+   "question_body": "雷大您好，我今天在复盘过去的交易，发现您在8/13日入场之后，在入场止盈回撤20均线，10点42分上方您没有选择挂单，我之前在回调的时候隐隐约约感觉，回调的其他K线比较长，然后回撤均线突然出现一根非常短的K线可能入场会比较容易打到止损，是因为这个原因您选择再观察一根，还是因为其他原因呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card074_c74q0.png",
+     "full": "data/qa/orig/img_063_thread123.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "24 天前",
+     "body": "当时您是决定在10:43上方去挂单入场",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "这个位置应该是在等一个加仓的机会，而不是入场。可能是因为这个位置走的比较缓，当时是想更明确的看到对于20均线的反应，所以是在10:43看到再一次下影线之后决定加仓。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "宝宝玉玉",
+     "time": "24 天前",
+     "body": "好的，感谢雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa75",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "您好 对于一个中国国内新手如何最简单开始交易QQQ等美股股票？",
+   "asker": "Patrick Bateman",
+   "time": "24 天前",
+   "replies_meta": "3 回复",
+   "question_body": "看完雷大所有视频后，出现了一个问题，像我这样生活在中国的人如何挑选一个适合我目前处境的一个券商去做美股，目前来说这个问题就是我最大的难点，像加密货币就很简单 选择随意你喜欢的交易所 入金 usdt，但美股非常正规 也就出现需要入美金，这方面对于正常生活在中国的人，经验完全是0，像交易 换汇磨损 交易手续费等如何控制到最少，是否会出一个视频，或者文字来帮助在这方面有疑惑的新手解决这看似简单，但0经验的新手操作起来非常难的问题，因为不知道如何去做",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "我不是很清楚在国内应该如何注册，可以周日语音频道的时候参考一下其他群友的经验",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "随机森林",
+     "time": "24 天前",
+     "body": "国内现在开立帐户做美股似乎是被限制了，这的确是个问题。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Patrick Bateman",
+     "time": "23 天前",
+     "body": "谢谢解答",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa76",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于tradingview20均线",
+   "asker": "蓝色的骨头",
+   "time": "25 天前",
+   "replies_meta": "5 回复",
+   "question_body": "在看复盘视频发现，我使用tradingview模拟交易的时候，跟雷大你的交易软件，以及网站的复盘回放，20均线相差比较大，换了几个指标代码，也一样，tradingview的20均线，更接近雷大以及网站的vwap均线。",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card076_q0.png",
+     "full": "data/qa/orig/img_061_thread121.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "补充",
+     "author": "阿V",
+     "time": "25 天前",
+     "body": "你这个是美盘图吧",
+     "images": []
+    },
+    {
+     "kind_label": "补充",
+     "author": "Fine",
+     "time": "24 天前",
+     "body": "你得把ETH打开",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "我是开了盘前数据的，就是选择eth",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "蓝色的骨头",
+     "time": "24 天前",
+     "body": "明白了，谢谢群友以及雷大",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa77",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于今天10:31的问题",
+   "asker": "jasmine8gu",
+   "time": "25 天前",
+   "replies_meta": "1 回复",
+   "question_body": "我看了今天的复盘视频，你的考虑是10:28, 10:29, 10:30三根k线好像停住了，所以没进。之前2026/08/13 10:21这个入场点我觉得有点类似，这里为什么入场了呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card077_q0.png",
+     "full": "data/qa/orig/img_060_thread120.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "请参考今天的全天复盘视频，重点讨论了这个位置。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa78",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于<不做了>的决定",
+   "asker": "Lunaaa",
+   "time": "25 天前",
+   "replies_meta": "4 回复",
+   "question_body": "老师您好：我想向您提问一个关于您的主观经验的问题。是什么时候，或者市场发生了哪些情况，您可能就会考虑今天下班了？除了您之前所提及到的<今日盈利目标达成>，<连续亏损>，和<触发最大回撤>？感谢解答",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "如果我觉得今天接下来需要等待的时间比较久，已经明显超过了开盘这个时间范围，我就会选择下班。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "以今天为例，看到1121再一次上涨，这里如果上涨之后想形成一段比较好上涨趋势可能需要过之前的高点，我觉得等待时间可能比较久，所以选择下班。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Lunaaa",
+     "time": "24 天前",
+     "body": "好的，了解，感谢老师解答",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa79",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "8/31 1051-1052回撤强度分析",
+   "asker": "lon",
+   "time": "25 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大你好，今天整体比较盘整。1051是我唯一挂了单子的，但是随后看到1052的收盘我就取消了。我在这就有一个疑问：1051，1052事后来看好像也可以认为两根上影线触碰EMA20均收回，这似乎可以说明EMA20有压力；但是这两个K线下影线几乎与上影线等长，然后实体都几乎没有，我在盘中第一感觉就是这个好像是个盘整，所以出现了犹豫的情况，所以取消挂单，想等1052出现一根比较大的空头K线，但是最终也是收成了一个十字星，所以就取消了入场。在这里想问问雷大，我盘中认为1051-1052有点盘整是合理的吗？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card079_q0.png",
+     "full": "data/qa/orig/img_059_thread117.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "如果只有两根k线，我觉得可能看不太出来是不是盘整。不过这里触及20均线反应确实不明显，10:52还有一些缩量。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "lon",
+     "time": "25 天前",
+     "body": "谢谢雷大，我明白了。那可能是前面盘整太多，所以后面做的会稍微保守一点hh",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "24 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa80",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "8/31 10:11回撤",
+   "asker": "PeterSu",
+   "time": "25 天前",
+   "replies_meta": "1 回复",
+   "question_body": "請問雷大10:11這根回撤如果上影線只距離20均線5cent或有一點重疊，您會考慮進場嗎？ 我感覺自己把回撤20均線的範圍拉太大，這邊距離15cent也是入場了。",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "是的，这样的情况我可能会入场",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa81",
+   "category": "其他标的",
+   "status": "已回答",
+   "title": "关于回撤20均线后入场的选择",
+   "asker": "Fine",
+   "time": "25 天前",
+   "replies_meta": "3 回复",
+   "question_body": "雷大，像这种回撤您建议入场吗？如果入场的话是在哪根K线下面挂单比较好？谢谢！",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card081_q0.png",
+     "full": "data/qa/orig/img_058_thread115.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "我觉得整体形态是符合的，可以考虑入场。挂单应该在触及20均线的k线下方挂单，直到触发。应该是在圈出来的第一根k线下方挂单，如果第二根的下影线触发了，那么就已经入场了，如果没有触发，那就是挪到第二个下影线的下方，等圈出来的第三根k线触发入场",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "Fine",
+     "time": "25 天前",
+     "body": "多谢雷大解惑！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa82",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于开盘计划",
+   "asker": "阿V",
+   "time": "26 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大，当天开盘做单的时候，要不要看看日线做个走势的预期，震荡还是趋势",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "26 天前",
+     "body": "我可能会控制自己尽量不要有这样的预期，还是以当天盘中实际的走势为准。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa83",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "2026/05/13 仓位管理",
+   "asker": "ED",
+   "time": "26 天前",
+   "replies_meta": "5 回复",
+   "question_body": "想问一下雷大，在2026/05/13这一段上涨，是怎么做加仓和减仓的仓位管理的？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card083_q0.png",
+     "full": "data/qa/orig/img_057_thread113.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "26 天前",
+     "body": "加仓是在1109过了上一根k线的高，止盈是在1055和1104吧",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "ED",
+     "time": "26 天前",
+     "body": "请问分别止盈了多少呢",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "第一次止盈60%，第二次止盈30%",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "ED",
+     "time": "25 天前",
+     "body": "谢谢回复",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "25 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa84",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "回测复盘用 数据统计 记录",
+   "asker": "ED",
+   "time": "27 天前",
+   "replies_meta": "4 回复",
+   "question_body": "想问一下，可以用 数据统计 功能来记录一下复盘的数据吗",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "提问者追问",
+     "author": "ED",
+     "time": "27 天前",
+     "body": "如果可以，开发一个用 回放复盘 就可以直接记录复盘数据，不用手动输入会更好",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "26 天前",
+     "body": "请问你说的复盘数据是指在复盘的时候使用模拟盘交易的记录吗？系统是会自动保存的，在回放复盘这个页面，模拟盘的交易记录会自动保存。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "ED",
+     "time": "26 天前",
+     "body": "谢谢回复，确实是可以的，非常感谢",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "26 天前",
+     "body": "不客气的",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa85",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于加仓与本金大小",
+   "asker": "蓝色的骨头",
+   "time": "27 天前",
+   "replies_meta": "4 回复",
+   "question_body": "关于8.28晚，加仓跟本金的问题\n\n我模拟的本金是50000美金，最多每笔风险1%，根据课程里的计算我可以做空69股，28号在12:11分我以717.99的价格做空69股\n\n12:19 以717.03的价格止盈20%的仓位14股，目前还剩55股\n\n12:33回撤20均线，准备加仓，根据拿不住系列视频的内容，我通过计算显示需要加仓72股\n然后问题出现了，我的本金显示不够加72股，我的疑问在于，这是我算错了吗？还是没有算错，还是这个加仓方式确实需要足够大的本金才行？并没有把本金的金额大小限制考虑在内？还请雷大解答，谢谢～",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card085_c85q0.png",
+     "full": "data/qa/orig/img_056_thread111.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "27 天前",
+     "body": "我觉得没什么问题。在模拟交易时，不管是入场还是加仓，都需要考虑本金的限制。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "27 天前",
+     "body": "而在实际交易中，券商会提供四倍的日内交易杠杆。如果使用的话，在加仓时可以满足以上你描述的情况，在没有风险的前提下加仓。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "蓝色的骨头",
+     "time": "27 天前",
+     "body": "明白，谢谢雷大，也就是我的入场仓位以及加仓的计算是没有问题，是我使用tradingview的时候模拟交易的限制，如果是实际交易中有杠杆的加持是可以满足加仓仓位的～",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "26 天前",
+     "body": "不客气的，是的，你的计算方法我觉得没有问题。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa86",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "8/28 1128的順六",
+   "asker": "PeterSu",
+   "time": "28 天前",
+   "replies_meta": "1 回复",
+   "question_body": "雷大您好，1128前我認為前方跌破20EMA後，進入盤整約15分鐘且成交量下降，覺得看多趨勢可能暫停，便取消做順六的想法，想等到下一波趨勢真的啟動後再考慮進場。您認為這種想法有符合策略嗎? 還是以今天的情況依舊看多是完全沒有問題",
+   "question_images": [],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "28 天前",
+     "body": "我觉得这样考虑也是可以的。11:23~11:25的上涨没有放量，确实可能说明多头后续力量不够。",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa87",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于交易日志问题",
+   "asker": "Derek",
+   "time": "29 天前",
+   "replies_meta": "1 回复",
+   "question_body": "老师，我在交易日志里面填写了两次卖出，第一次是30%，第二次剩下仓位。但是排行榜里面为什么不显示我止盈了呢？",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card087_q0.png",
+     "full": "data/qa/orig/img_054_thread108.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "28 天前",
+     "body": "应该下一次录入记录的时候，先刷新一下页面就可以了",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  },
+  {
+   "id": "qa88",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "信号都对得上但还是亏损",
+   "asker": "随机森林",
+   "time": "29 天前",
+   "replies_meta": "5 回复",
+   "question_body": "雷大：您好！附图是我8月20日的复盘记录，只做开盘后两个小时。一共做了两次交易，交易位置和雷大的复盘视频里讲解的几乎完全一致，和市场报告里的分析也是一致的。第1笔是亏损的，第2笔是盈利的，当天算总帐一样是亏损的。但雷大您当天是盈利的，所以我的亏损到底是亏在哪里？我想找出原因来，因为这种情况经常发生，我的信号位置和复盘视频对比起来是差不多的，但有时候盈亏结果相去很远。以这一天为例，我亏损是因为：1、是因为第1笔交易的止损位置过大吗？我看市场报告里的止损位置好像是挪了的结果？2、是因为第2笔交易，第1次放量下跌时我的止盈比例不够吗？谢谢雷大！",
+   "question_images": [
+    {
+     "thumb": "data/qa/img/card088_c88q0.png",
+     "full": "data/qa/orig/img_053_thread107.png"
+    }
+   ],
+   "replies": [
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "29 天前",
+     "body": "第一单止损可能稍微晚了，我是在1006过了20均线止损的。第二单我觉得问题不大，止盈的比例可以在之后交易的时候慢慢调整。",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "29 天前",
+     "body": "雷大，1006过了20均线即刻止损而不是守着原来的止损位置，也就是说1006这一根挪了止损位置，这样做有什么经验上的依据吗？因为按您一贯的做法，好像是说设止盈时你才会挪止损。",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "29 天前",
+     "body": "目前我入场和平仓主要参考的都是20均线，如果价格过20均线比较多了，我会选择平仓。这里主要是入场的k线比较长，初始止损和20均线比较远，可以考虑在过了20均线后平仓",
+     "images": []
+    },
+    {
+     "kind_label": "提问者追问",
+     "author": "随机森林",
+     "time": "29 天前",
+     "body": "好的谢谢雷大！",
+     "images": []
+    },
+    {
+     "kind_label": "Admin 回答",
+     "author": "日进斗斗金",
+     "time": "29 天前",
+     "body": "不客气的，感谢支持",
+     "images": []
+    }
+   ],
+   "reply_images_fallback": []
+  }
+ ],
+ "archived": [
+  {
+   "id": "arch",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "08/26全天复盘视频观后感",
+   "asker": "日进斗斗金",
+   "time": "1 月前",
+   "replies": [],
+   "question_body": ""
+  },
+  {
+   "id": "arch",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于背景阅读",
+   "asker": "宝宝玉玉",
+   "time": "1 月前",
+   "replies": [],
+   "question_body": ""
+  },
+  {
+   "id": "arch",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "请问QQQ图表时段选择ETH还是RTH",
+   "asker": "老狼",
+   "time": "1 月前",
+   "replies": [],
+   "question_body": ""
+  },
+  {
+   "id": "arch",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "关于图表的问题",
+   "asker": "阿V",
+   "time": "1 月前",
+   "replies": [],
+   "question_body": ""
+  },
+  {
+   "id": "arch",
+   "category": "QQQ",
+   "status": "已回答",
+   "title": "视频里面交易复盘无法查看，提示需要登陆。",
+   "asker": "Ps_an",
+   "time": "1 月前",
+   "replies": [],
+   "question_body": ""
+  }
+ ],
+ "stats": {
+  "status": {
+   "待回答": 0,
+   "已回答": 89
+  },
+  "total_replies": 249,
+  "question_images": 53,
+  "reply_images": 9,
+  "top_askers": [
+   [
+    "随机森林",
+    8
+   ],
+   [
+    "jasmine8gu",
+    7
+   ],
+   [
+    "ED",
+    6
+   ],
+   [
+    "宝宝玉玉",
+    6
+   ],
+   [
+    "蓝色的骨头",
+    6
+   ],
+   [
+    "阿V",
+    6
+   ],
+   [
+    "Lunaaa",
+    5
+   ],
+   [
+    "日内交易员",
+    5
+   ],
+   [
+    "lon",
+    3
+   ],
+   [
+    "PeterSu",
+    3
+   ]
+  ]
+ }
+}

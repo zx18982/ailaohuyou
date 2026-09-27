@@ -1,0 +1,1560 @@
+{
+ "date": "2026-05-08",
+ "symbol": "QQQ",
+ "source": "ai",
+ "status": "published",
+ "published_at": "2026-06-04T20:34:40.343+00:00",
+ "template_version": "v5.0",
+ "pro_data": {
+  "date": "2026-05-08",
+  "events": [
+   {
+    "time": "10:10",
+    "type": "signal_entry_long",
+    "segmentIdx": 1
+   },
+   {
+    "time": "10:12",
+    "type": "entry",
+    "segmentIdx": 1,
+    "pairedSignalTime": "10:10"
+   },
+   {
+    "time": "10:29",
+    "type": "trend_break",
+    "segmentIdx": 1
+   },
+   {
+    "time": "10:41",
+    "type": "signal_entry_long",
+    "segmentIdx": 2
+   },
+   {
+    "time": "10:42",
+    "type": "entry",
+    "segmentIdx": 2,
+    "pairedSignalTime": "10:41"
+   },
+   {
+    "time": "10:53",
+    "type": "add",
+    "segmentIdx": 2,
+    "pairedSignalTime": null
+   },
+   {
+    "time": "11:10",
+    "type": "trend_break",
+    "segmentIdx": 2
+   }
+  ],
+  "symbol": "QQQ",
+  "minutes": [
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "高开 上下影线都较长",
+    "time": "09:30",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "感觉多头强",
+    "time": "09:31",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "上涨过昨天的最高 整体看多 等回撤做多的机会",
+    "time": "09:32",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:33",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微缩量 预期不变 等回撤做多的机会",
+    "time": "09:34",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微缩量 预期不变",
+    "time": "09:35",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:36",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "预期不变 等回撤做多的机会",
+    "time": "09:37",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "成交量无明显变化 等回撤做多的机会",
+    "time": "09:38",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:39",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "观察到20均线附近的反应",
+    "time": "09:40",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微缩量 观察到20均线附近的反应",
+    "time": "09:41",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "放量上涨 预期不变 等回撤到20附近",
+    "time": "09:42",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "预期不变 等回撤做多的机会",
+    "time": "09:43",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "预期不变 成交量稍微放大",
+    "time": "09:44",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "放量上涨 等回撤做多的机会",
+    "time": "09:45",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "放量上涨 预期不变 等回撤做多的机会",
+    "time": "09:46",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:47",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "预期不变 等回撤做多的机会",
+    "time": "09:48",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "预期不变",
+    "time": "09:49",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:50",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:51",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微缩量 预期不变",
+    "time": "09:52",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微缩量 等回撤做多的机会",
+    "time": "09:53",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微放量 预期不变",
+    "time": "09:54",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会 今天1000有数据发布",
+    "time": "09:55",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:56",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会 今天1000有数据发布",
+    "time": "09:57",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会 缩量",
+    "time": "09:58",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "放量上涨",
+    "time": "09:59",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "数据后放量",
+    "time": "10:00",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:01",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会 这段趋势较久 斜率较大",
+    "time": "10:02",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "缩量 等回撤做多的机会",
+    "time": "10:03",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "缩量 等回撤做多的机会",
+    "time": "10:04",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "缩量",
+    "time": "10:05",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微放量 等回撤到20均线观察反应",
+    "time": "10:06",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "放量 观察到20附近的反应",
+    "time": "10:07",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "观察到20附近的反应",
+    "time": "10:08",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "观察到20附近的反应 这里走的好像有一些盘整 在1000k线范围内缩量",
+    "time": "10:09",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "可做多",
+    "note": "回撤20附近 过高可做多",
+    "time": "10:10",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "可做多"
+   },
+   {
+    "dir": "多",
+    "tag": "可做多",
+    "note": "感觉20有支撑 过高可做多",
+    "time": "10:11",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "可做多"
+   },
+   {
+    "dir": "多",
+    "tag": "入场",
+    "note": "入场",
+    "time": "10:12",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "入场"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:13",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "缩量 感觉有一些盘整 连续成交量缩小 持仓",
+    "time": "10:14",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:15",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:16",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:17",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "成交量无明显变化 观察到前高附近的反应 持仓",
+    "time": "10:18",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:19",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "缩量 有一些异常 目前感觉还是在1000发范围内 观察到前高附近的反应",
+    "time": "10:20",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "成交量稍微放大",
+    "time": "10:21",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "放量上涨有了新高 不过这根收长上影线 需要观察",
+    "time": "10:22",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:23",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "连续放量 可以考虑提高止盈比例",
+    "time": "10:24",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:25",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:26",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "过上一根K线的低止盈 挪止损",
+    "time": "10:27",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "回撤到20感觉有支撑 过高可以考虑加仓",
+    "time": "10:28",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "趋势破坏/警告",
+    "note": "跌破20 需要重新判断",
+    "time": "10:29",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "趋势破坏/警告"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "稍微放量 整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:30",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:31",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:32",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:33",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "尝试上涨过20",
+    "time": "10:34",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "再次下跌到20下方",
+    "time": "10:35",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:36",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:37",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "10:38",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "上涨过20均线",
+    "time": "10:39",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:40",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "可做多",
+    "note": "回撤 过高可入场",
+    "time": "10:41",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "可做多"
+   },
+   {
+    "dir": "多",
+    "tag": "入场",
+    "note": "入场",
+    "time": "10:42",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "入场"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:43",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:44",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "这里过了上一根K线的低 但是利润较少 可继续持仓",
+    "time": "10:45",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:46",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:47",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "过上一根K线的低止盈 挪止损",
+    "time": "10:48",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:49",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:50",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:51",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "再次回撤到20均线附近",
+    "time": "10:52",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "加仓",
+    "note": "可加仓或入场",
+    "time": "10:53",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "加仓"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:54",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:55",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "过上一根K线的低止盈 挪止损",
+    "time": "10:56",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:57",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:58",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "10:59",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:00",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:01",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "过上一根K线的低止盈 挪止损 这段走的比较缓",
+    "time": "11:02",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:03",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:04",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:05",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:06",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "持仓",
+    "time": "11:07",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "过上一根K线的低止盈 挪止损",
+    "time": "11:08",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "持仓中",
+    "note": "回撤到20均线观察反应 过高可加仓",
+    "time": "11:09",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "持仓中"
+   },
+   {
+    "dir": "多",
+    "tag": "趋势破坏/警告",
+    "note": "跌破20均线 这单结束",
+    "time": "11:10",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "趋势破坏/警告"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:11",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:12",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:13",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:14",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:15",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:16",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+    "time": "11:17",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "回撤到1000最高受到支撑 705.8附近 整体看多",
+    "time": "11:18",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "05/08当天全天上涨 不过后续走的比较缓 对于20均线反应一般",
+    "time": "11:19",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   }
+  ],
+  "segments": [
+   {
+    "dir": null,
+    "end": "09:31",
+    "idx": 0,
+    "start": "09:30",
+    "state": "NODIR",
+    "endIdx": 1,
+    "addTimes": [],
+    "startIdx": 0,
+    "entryTime": null,
+    "titleHint": null,
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": "long",
+    "end": "10:29",
+    "idx": 1,
+    "start": "09:32",
+    "state": "DIR",
+    "endIdx": 59,
+    "addTimes": [],
+    "exitTime": "10:29",
+    "startIdx": 2,
+    "entryTime": "10:12",
+    "titleHint": "first_confirm",
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": true,
+    "includedTrendBreak": "10:29",
+    "hasEnteredInSegment": true
+   },
+   {
+    "dir": "long",
+    "end": "11:10",
+    "idx": 2,
+    "start": "10:30",
+    "state": "DIR",
+    "endIdx": 100,
+    "addTimes": [
+     "10:53"
+    ],
+    "exitTime": "11:10",
+    "startIdx": 60,
+    "entryTime": "10:42",
+    "titleHint": "restart_confirm",
+    "hasAddedInSegment": true,
+    "hasExitedInSegment": true,
+    "includedTrendBreak": "11:10",
+    "hasEnteredInSegment": true
+   },
+   {
+    "dir": "long",
+    "end": "11:19",
+    "idx": 3,
+    "start": "11:11",
+    "state": "DIR",
+    "endIdx": 109,
+    "addTimes": [],
+    "startIdx": 101,
+    "entryTime": null,
+    "titleHint": "waiting_restart",
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   }
+  ],
+  "key_prices": [],
+  "time_window": "09:30-11:19 ET",
+  "watch_points": [],
+  "data_end_time": "11:19",
+  "template_version": "v4.4.2"
+ },
+ "bar_notes": {
+  "09:30": {
+   "note": "高开 上下影线都较长",
+   "label": "待定"
+  },
+  "09:31": {
+   "note": "感觉多头强",
+   "label": "待定"
+  },
+  "09:32": {
+   "note": "上涨过昨天的最高 整体看多 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:33": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:34": {
+   "note": "稍微缩量 预期不变 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:35": {
+   "note": "稍微缩量 预期不变",
+   "label": "等回多"
+  },
+  "09:36": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:37": {
+   "note": "预期不变 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:38": {
+   "note": "成交量无明显变化 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:39": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:40": {
+   "note": "观察到20均线附近的反应",
+   "label": "等回多"
+  },
+  "09:41": {
+   "note": "稍微缩量 观察到20均线附近的反应",
+   "label": "等回多"
+  },
+  "09:42": {
+   "note": "放量上涨 预期不变 等回撤到20附近",
+   "label": "等回多"
+  },
+  "09:43": {
+   "note": "预期不变 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:44": {
+   "note": "预期不变 成交量稍微放大",
+   "label": "等回多"
+  },
+  "09:45": {
+   "note": "放量上涨 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:46": {
+   "note": "放量上涨 预期不变 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:47": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:48": {
+   "note": "预期不变 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:49": {
+   "note": "预期不变",
+   "label": "等回多"
+  },
+  "09:50": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:51": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:52": {
+   "note": "稍微缩量 预期不变",
+   "label": "等回多"
+  },
+  "09:53": {
+   "note": "稍微缩量 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:54": {
+   "note": "稍微放量 预期不变",
+   "label": "等回多"
+  },
+  "09:55": {
+   "note": "等回撤做多的机会 今天1000有数据发布",
+   "label": "等回多"
+  },
+  "09:56": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:57": {
+   "note": "等回撤做多的机会 今天1000有数据发布",
+   "label": "等回多"
+  },
+  "09:58": {
+   "note": "等回撤做多的机会 缩量",
+   "label": "等回多"
+  },
+  "09:59": {
+   "note": "放量上涨",
+   "label": "等回多"
+  },
+  "10:00": {
+   "note": "数据后放量",
+   "label": "等回多"
+  },
+  "10:01": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:02": {
+   "note": "等回撤做多的机会 这段趋势较久 斜率较大",
+   "label": "等回多"
+  },
+  "10:03": {
+   "note": "缩量 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:04": {
+   "note": "缩量 等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:05": {
+   "note": "缩量",
+   "label": "等回多"
+  },
+  "10:06": {
+   "note": "稍微放量 等回撤到20均线观察反应",
+   "label": "等回多"
+  },
+  "10:07": {
+   "note": "放量 观察到20附近的反应",
+   "label": "等回多"
+  },
+  "10:08": {
+   "note": "观察到20附近的反应",
+   "label": "等回多"
+  },
+  "10:09": {
+   "note": "观察到20附近的反应 这里走的好像有一些盘整 在1000k线范围内缩量",
+   "label": "等回多"
+  },
+  "10:10": {
+   "note": "回撤20附近 过高可做多",
+   "label": "可做多"
+  },
+  "10:11": {
+   "note": "感觉20有支撑 过高可做多",
+   "label": "可做多"
+  },
+  "10:12": {
+   "note": "入场",
+   "label": "入场"
+  },
+  "10:13": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:14": {
+   "note": "缩量 感觉有一些盘整 连续成交量缩小 持仓",
+   "label": "持仓中"
+  },
+  "10:15": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:16": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:17": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:18": {
+   "note": "成交量无明显变化 观察到前高附近的反应 持仓",
+   "label": "持仓中"
+  },
+  "10:19": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:20": {
+   "note": "缩量 有一些异常 目前感觉还是在1000发范围内 观察到前高附近的反应",
+   "label": "持仓中"
+  },
+  "10:21": {
+   "note": "成交量稍微放大",
+   "label": "持仓中"
+  },
+  "10:22": {
+   "note": "放量上涨有了新高 不过这根收长上影线 需要观察",
+   "label": "持仓中"
+  },
+  "10:23": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:24": {
+   "note": "连续放量 可以考虑提高止盈比例",
+   "label": "持仓中"
+  },
+  "10:25": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:26": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:27": {
+   "note": "过上一根K线的低止盈 挪止损",
+   "label": "持仓中"
+  },
+  "10:28": {
+   "note": "回撤到20感觉有支撑 过高可以考虑加仓",
+   "label": "持仓中"
+  },
+  "10:29": {
+   "note": "跌破20 需要重新判断",
+   "label": "趋势破坏/警告"
+  },
+  "10:30": {
+   "note": "稍微放量 整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:31": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:32": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:33": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:34": {
+   "note": "尝试上涨过20",
+   "label": "等回多"
+  },
+  "10:35": {
+   "note": "再次下跌到20下方",
+   "label": "等回多"
+  },
+  "10:36": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:37": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:38": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:39": {
+   "note": "上涨过20均线",
+   "label": "等回多"
+  },
+  "10:40": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:41": {
+   "note": "回撤 过高可入场",
+   "label": "可做多"
+  },
+  "10:42": {
+   "note": "入场",
+   "label": "入场"
+  },
+  "10:43": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:44": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:45": {
+   "note": "这里过了上一根K线的低 但是利润较少 可继续持仓",
+   "label": "持仓中"
+  },
+  "10:46": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:47": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:48": {
+   "note": "过上一根K线的低止盈 挪止损",
+   "label": "持仓中"
+  },
+  "10:49": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:50": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:51": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:52": {
+   "note": "再次回撤到20均线附近",
+   "label": "持仓中"
+  },
+  "10:53": {
+   "note": "可加仓或入场",
+   "label": "加仓"
+  },
+  "10:54": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:55": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:56": {
+   "note": "过上一根K线的低止盈 挪止损",
+   "label": "持仓中"
+  },
+  "10:57": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:58": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "10:59": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:00": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:01": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:02": {
+   "note": "过上一根K线的低止盈 挪止损 这段走的比较缓",
+   "label": "持仓中"
+  },
+  "11:03": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:04": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:05": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:06": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:07": {
+   "note": "持仓",
+   "label": "持仓中"
+  },
+  "11:08": {
+   "note": "过上一根K线的低止盈 挪止损",
+   "label": "持仓中"
+  },
+  "11:09": {
+   "note": "回撤到20均线观察反应 过高可加仓",
+   "label": "持仓中"
+  },
+  "11:10": {
+   "note": "跌破20均线 这单结束",
+   "label": "趋势破坏/警告"
+  },
+  "11:11": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:12": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:13": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:14": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:15": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:16": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:17": {
+   "note": "整体看多 等上涨过了20均线后回撤做多的机会",
+   "label": "等回多"
+  },
+  "11:18": {
+   "note": "回撤到1000最高受到支撑 705.8附近 整体看多",
+   "label": "等回多"
+  },
+  "11:19": {
+   "note": "05/08当天全天上涨 不过后续走的比较缓 对于20均线反应一般",
+   "label": "等回多"
+  }
+ },
+ "markdown": "### 分段总览\n\n| 时段 | 阶段定性 |\n|---|---|\n| [09:32 – 11:19] | 多头趋势确认, 时段内出现 2 次入场信号, 2 次入场完成 |\n\n### 分段详述\n\n**[09:30 – 09:31]** 开盘偏多头 · 等待方向确认\n\n9:30 高开, 上下影线都较长, 感觉多头偏强, 但方向还需要继续观察。\n\n→ **本段无入场窗口**\n\n---\n\n**[09:32 – 10:29]** 多头趋势确认 · 回撤入场 · 1 次加仓信号\n\n9:32 上涨过昨天的最高, 整体看多, 等回撤做多的机会。9:42 / 9:45 接连放量上涨, 一路在等回撤到 EMA20 附近的反应。9:59-10:00 数据后放量延续多头, 10:09 这里走得有些盘整、在区间内缩量。10:10 回撤到 EMA20 附近、感觉有支撑, 出现入场信号, 10:12 完成入场。随后持续持仓, 10:18-10:20 缩量在前高附近反复, 10:22 放量上涨创新高但收长上影线需观察, 10:24 连续放量可以考虑提高止盈, 10:27 过上一根 K 线的低后挪止损。10:28 回撤到 EMA20 感觉有支撑, 出现加仓信号; 但 10:29 放量跌破 EMA20 至 $705.46, 持仓被打掉。\n\n→ 入场:**10:10** → **10:12**\n→ 出场:**10:29**\n\n---\n\n**[10:30 – 11:10]** 多头趋势再启动 · 回撤入场 · 1 次加仓信号\n\n10:30 整体仍看多, 等价格上涨过 EMA20 后回撤做多。10:34 尝试上涨过 EMA20, 10:35-10:38 又一度回到 EMA20 下方, 10:39 重新站上 EMA20。10:41 回撤后出现入场信号, 10:42 完成入场。10:48 过上一根 K 线的低后挪止损。10:52 再次回撤到 EMA20 附近、出现加仓信号, 10:53 完成加仓, 收 $706.32。此后这段走得比较缓, 11:02 / 11:08 持续过上一根 K 线的低挪止损。11:09 回撤到 EMA20 观察反应, 11:10 跌破 EMA20 至 $706.62, 这单结束。\n\n→ 入场:**10:41** → **10:42**\n→ 加仓:**10:52** → **10:53**\n→ 出场:**11:10**\n\n---\n\n**[11:11 – 11:19]** 等待多头趋势再启动 · 等回撤做多\n\n11:11 整体仍看多, 等价格上涨过 EMA20 后回撤做多。11:18 回撤到区间最高 **705.8** 附近受到支撑, 整体维持多头, 但后续走得比较缓、对 EMA20 反应一般。\n\n→ **本段无入场窗口**\n\n"
+}

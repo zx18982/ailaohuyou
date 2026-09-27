@@ -1,0 +1,966 @@
+{
+ "date": "2026-08-27",
+ "symbol": "QQQ",
+ "source": "ai",
+ "status": "published",
+ "published_at": "2026-08-27T16:51:23.992+00:00",
+ "template_version": "v7.0",
+ "pro_data": {
+  "date": "2026-08-27",
+  "events": [],
+  "symbol": "QQQ",
+  "minutes": [
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "高开，位置在昨天最高以上",
+    "time": "09:30",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "还不能确定方向，需要等待",
+    "time": "09:31",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "还不能确定方向，需要等待",
+    "time": "09:32",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "还不能确定方向，需要等待",
+    "time": "09:33",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "看空，等回撤做空的机会",
+    "time": "09:34",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会",
+    "time": "09:35",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会",
+    "time": "09:36",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会，连续下影线，感觉下方有支撑",
+    "time": "09:37",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会",
+    "time": "09:38",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会",
+    "time": "09:39",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "k线较长，需要等待",
+    "time": "09:40",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "这里没有过低入场的机会，需要等待",
+    "time": "09:41",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "需要等待",
+    "time": "09:42",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "需要等待",
+    "time": "09:43",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "异常放量上涨，需要等待",
+    "time": "09:44",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "看多，等回撤做多的机会",
+    "time": "09:45",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "09:46",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "放量下跌，需要等待",
+    "time": "09:47",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:48",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:49",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:50",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:51",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:52",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:53",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "感觉整体震荡，需要等待",
+    "time": "09:54",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:55",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "09:56",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "跌破前低，看空，等回撤做空的机会",
+    "time": "09:57",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会",
+    "time": "09:58",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "等回撤做空的机会",
+    "time": "09:59",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "需要等待",
+    "time": "10:00",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "空",
+    "tag": "等回空",
+    "note": "需要等待",
+    "time": "10:01",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回空"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:02",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:03",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:04",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:05",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:06",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:07",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "在震荡范围内，需要等待",
+    "time": "10:08",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "需要等待",
+    "time": "10:09",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "看多，等回撤做多的机会",
+    "time": "10:10",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:11",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:12",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:13",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:14",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:15",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:16",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "观察到 20 均线附近的反应",
+    "time": "10:17",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:18",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:19",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:20",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:21",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "观察到 20 均线附近的反应",
+    "time": "10:22",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:23",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:24",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:25",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "观察到 20 均线附近的反应",
+    "time": "10:26",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:27",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:28",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "等回撤做多的机会",
+    "time": "10:29",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "多",
+    "tag": "等回多",
+    "note": "回撤过 20 均线较多，需要等待",
+    "time": "10:30",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "等回多"
+   },
+   {
+    "dir": "无",
+    "tag": "待定",
+    "note": "08/27 当日偏震荡，没有符合计划的入场机会",
+    "time": "10:31",
+    "annot": null,
+    "signalK": null,
+    "effectiveTag": "待定"
+   }
+  ],
+  "segments": [
+   {
+    "dir": null,
+    "end": "09:33",
+    "idx": 0,
+    "start": "09:30",
+    "state": "NODIR",
+    "endIdx": 3,
+    "addTimes": [],
+    "startIdx": 0,
+    "entryTime": null,
+    "titleHint": null,
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": "short",
+    "end": "09:43",
+    "idx": 1,
+    "start": "09:34",
+    "state": "DIR",
+    "endIdx": 13,
+    "addTimes": [],
+    "startIdx": 4,
+    "entryTime": null,
+    "titleHint": "waiting_first",
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": null,
+    "end": "09:44",
+    "idx": 2,
+    "start": "09:44",
+    "state": "NODIR",
+    "endIdx": 14,
+    "addTimes": [],
+    "startIdx": 14,
+    "entryTime": null,
+    "titleHint": null,
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": "long",
+    "end": "09:46",
+    "idx": 3,
+    "start": "09:45",
+    "state": "DIR",
+    "endIdx": 16,
+    "addTimes": [],
+    "startIdx": 15,
+    "entryTime": null,
+    "titleHint": "first_confirm",
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": null,
+    "end": "09:56",
+    "idx": 4,
+    "start": "09:47",
+    "state": "NODIR",
+    "endIdx": 26,
+    "addTimes": [],
+    "startIdx": 17,
+    "entryTime": null,
+    "titleHint": null,
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": "short",
+    "end": "10:01",
+    "idx": 5,
+    "start": "09:57",
+    "state": "DIR",
+    "endIdx": 31,
+    "addTimes": [],
+    "startIdx": 27,
+    "entryTime": null,
+    "titleHint": "waiting_first",
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": null,
+    "end": "10:09",
+    "idx": 6,
+    "start": "10:02",
+    "state": "NODIR",
+    "endIdx": 39,
+    "addTimes": [],
+    "startIdx": 32,
+    "entryTime": null,
+    "titleHint": null,
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": "long",
+    "end": "10:30",
+    "idx": 7,
+    "start": "10:10",
+    "state": "DIR",
+    "endIdx": 60,
+    "addTimes": [],
+    "startIdx": 40,
+    "entryTime": null,
+    "titleHint": "waiting_first",
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   },
+   {
+    "dir": null,
+    "end": "10:31",
+    "idx": 8,
+    "start": "10:31",
+    "state": "NODIR",
+    "endIdx": 61,
+    "addTimes": [],
+    "startIdx": 61,
+    "entryTime": null,
+    "titleHint": null,
+    "hasAddedInSegment": false,
+    "hasExitedInSegment": false,
+    "hasEnteredInSegment": false
+   }
+  ],
+  "key_prices": [],
+  "time_window": "09:30-10:31 ET",
+  "watch_points": [],
+  "data_end_time": "10:31",
+  "template_version": "v7.0"
+ },
+ "bar_notes": {
+  "09:30": {
+   "note": "高开，位置在昨天最高以上",
+   "label": "待定"
+  },
+  "09:31": {
+   "note": "还不能确定方向，需要等待",
+   "label": "待定"
+  },
+  "09:32": {
+   "note": "还不能确定方向，需要等待",
+   "label": "待定"
+  },
+  "09:33": {
+   "note": "还不能确定方向，需要等待",
+   "label": "待定"
+  },
+  "09:34": {
+   "note": "看空，等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:35": {
+   "note": "等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:36": {
+   "note": "等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:37": {
+   "note": "等回撤做空的机会，连续下影线，感觉下方有支撑",
+   "label": "等回空"
+  },
+  "09:38": {
+   "note": "等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:39": {
+   "note": "等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:40": {
+   "note": "k线较长，需要等待",
+   "label": "等回空"
+  },
+  "09:41": {
+   "note": "这里没有过低入场的机会，需要等待",
+   "label": "等回空"
+  },
+  "09:42": {
+   "note": "需要等待",
+   "label": "等回空"
+  },
+  "09:43": {
+   "note": "需要等待",
+   "label": "等回空"
+  },
+  "09:44": {
+   "note": "异常放量上涨，需要等待",
+   "label": "待定"
+  },
+  "09:45": {
+   "note": "看多，等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:46": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "09:47": {
+   "note": "放量下跌，需要等待",
+   "label": "待定"
+  },
+  "09:48": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:49": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:50": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:51": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:52": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:53": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:54": {
+   "note": "感觉整体震荡，需要等待",
+   "label": "待定"
+  },
+  "09:55": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:56": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "09:57": {
+   "note": "跌破前低，看空，等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:58": {
+   "note": "等回撤做空的机会",
+   "label": "等回空"
+  },
+  "09:59": {
+   "note": "等回撤做空的机会",
+   "label": "等回空"
+  },
+  "10:00": {
+   "note": "需要等待",
+   "label": "等回空"
+  },
+  "10:01": {
+   "note": "需要等待",
+   "label": "等回空"
+  },
+  "10:02": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:03": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:04": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:05": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:06": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:07": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:08": {
+   "note": "在震荡范围内，需要等待",
+   "label": "待定"
+  },
+  "10:09": {
+   "note": "需要等待",
+   "label": "待定"
+  },
+  "10:10": {
+   "note": "看多，等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:11": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:12": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:13": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:14": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:15": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:16": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:17": {
+   "note": "观察到 20 均线附近的反应",
+   "label": "等回多"
+  },
+  "10:18": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:19": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:20": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:21": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:22": {
+   "note": "观察到 20 均线附近的反应",
+   "label": "等回多"
+  },
+  "10:23": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:24": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:25": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:26": {
+   "note": "观察到 20 均线附近的反应",
+   "label": "等回多"
+  },
+  "10:27": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:28": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:29": {
+   "note": "等回撤做多的机会",
+   "label": "等回多"
+  },
+  "10:30": {
+   "note": "回撤过 20 均线较多，需要等待",
+   "label": "等回多"
+  },
+  "10:31": {
+   "note": "08/27 当日偏震荡，没有符合计划的入场机会",
+   "label": "待定"
+  }
+ },
+ "markdown": "## 市场结构定性分析\n\n### 分段总览\n\n| 时段 | 阶段定性 |\n|---|---|\n| **[09:34 – 09:43]** | 空头趋势确认, 时段内没有入场机会 |\n| **[09:45 – 09:46]** | 多头趋势确认, 时段内没有入场机会 |\n| **[09:57 – 10:01]** | 空头趋势确认, 时段内没有入场机会 |\n| **[10:10 – 10:30]** | 多头趋势确认, 时段内没有入场机会 |\n\n### 分段详述\n\n**[09:30 – 09:33] 开盘偏多头 · 等待方向确认**\n\n9:30 高开, 位置站在昨天最高以上。9:31-9:33 方向还不能确定, 需要继续等待回撤的力度。\n\n→ **本段无入场窗口**\n\n---\n\n**[09:34 – 09:43] 等待空头趋势启动 · 等回撤做空**\n\n9:34 起看空, 等回撤做空的机会。9:41 这里没有过低入场的机会, 仍需继续等待。\n\n→ **本段无入场窗口**\n\n---\n\n**[09:45 – 09:46] 多头趋势确认 · 等待回撤做多**\n\n9:45 起转为看多, 等回撤做多的机会, 但这一小段暂无入场窗口。\n\n→ **本段无入场窗口**\n\n---\n\n**[09:47 – 09:56] 跌破前低 · 等待方向确认**\n\n9:47 一根放量下跌, 方向重新变得不明朗, 需要继续等待观察。\n\n→ **本段无入场窗口**\n\n---\n\n**[09:57 – 10:01] 等待空头趋势启动 · 等回撤做空**\n\n9:57 放量跌破前低, 重新看空, 等回撤做空的机会, 但这一段没有出现过低的入场点。\n\n→ **本段无入场窗口**\n\n---\n\n**[10:02 – 10:09] 等待方向确认**\n\n10:02 起方向再次不明确, 继续等待观察。\n\n→ **本段无入场窗口**\n\n---\n\n**[10:10 – 10:30] 等待多头趋势启动 · 等回撤做多**\n\n10:10 起重新看多, 等回撤做多的机会。10:11-10:29 价格持续在 EMA20 上方运行, 但一直没有等到合适的回撤入场点。10:30 回撤过 EMA20 较多, 转为继续等待。\n\n→ **本段无入场窗口**"
+}

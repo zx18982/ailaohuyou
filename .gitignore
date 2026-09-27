@@ -1,0 +1,11 @@
+# ---- 部署到 GitHub Pages 时排除（非站点运行时所需）----
+node_modules/
+.workbuddy/
+.DS_Store
+screenshots/
+tools/
+qa_export/
+skills-generated/
+
+# ---- 密钥：Supabase 访问令牌，严禁上传 ----
+data/market/_ddj_token.txt
